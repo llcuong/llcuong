@@ -1,998 +1,0 @@
-%PDF-1.7
-%¡³Å×
-1 0 obj
-<</Pages 2 0 R /Type/Catalog/ViewerPreferences<</DisplayDocTitle true>>>>
-endobj
-2 0 obj
-<</Count 6/Kids[ 4 0 R  40 0 R  83 0 R  128 0 R  171 0 R  192 0 R ]/Type/Pages>>
-endobj
-3 0 obj
-<</CreationDate(D:20250813105343)/Creator(PDFium)/Producer(PDFium)>>
-endobj
-4 0 obj
-<</BleedBox[ 0 0 504 661.5]/Contents 194 0 R /CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</Font<</F0 32 0 R /F2 36 0 R >>/ProcSet[/PDF/Text/ImageC]/XObject<<>>>>/Type/Page>>
-endobj
-5 0 obj
-[ 6 0 R  7 0 R  8 0 R  9 0 R  10 0 R  11 0 R  12 0 R  13 0 R  14 0 R  15 0 R  16 0 R  17 0 R  18 0 R  19 0 R  20 0 R  21 0 R  22 0 R  23 0 R  24 0 R  25 0 R  26 0 R  27 0 R  28 0 R  29 0 R  30 0 R ]
-endobj
-6 0 obj
-<</A<</D(preface)/S/GoTo>>/Border[ 0 0 0]/Contents(Preface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 72 418.491 432 430.491]/Subtype/Link/Type/Annot>>
-endobj
-7 0 obj
-<</A<</D(overview_of_machine_learning_systems)/S/GoTo>>/Border[ 0 0 0]/Contents(Overview of Machine Learning Systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 393.29099 432 405.29099]/Subtype/Link/Type/Annot>>
-endobj
-8 0 obj
-<</A<</D(when_to_use_machine_learning)/S/GoTo>>/Border[ 0 0 0]/Contents(When to Use Machine Learning                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 380.54095 414 391.04095]/Subtype/Link/Type/Annot>>
-endobj
-9 0 obj
-<</A<</D(machine_learning_use_cases)/S/GoTo>>/Border[ 0 0 0]/Contents(Machine Learning Use Cases                                                                                        ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 367.94098 414 378.44098]/Subtype/Link/Type/Annot>>
-endobj
-10 0 obj
-<</A<</D(understanding_machine_learning_systems)/S/GoTo>>/Border[ 0 0 0]/Contents(Understanding Machine Learning Systems                                                                 12)/M(D:20220517135306+00'00')/Rect[ 86.400002 355.34094 414 365.84094]/Subtype/Link/Type/Annot>>
-endobj
-11 0 obj
-<</A<</D(machine_learning_in_research_versus_in)/S/GoTo>>/Border[ 0 0 0]/Contents(Machine Learning in Research Versus in Production                                            12)/M(D:20220517135306+00'00')/Rect[ 95.040001 342.74097 414 353.24097]/Subtype/Link/Type/Annot>>
-endobj
-12 0 obj
-<</A<</D(machine_learning_systems_versus_traditi)/S/GoTo>>/Border[ 0 0 0]/Contents(Machine Learning Systems Versus Traditional Software                                       22)/M(D:20220517135306+00'00')/Rect[ 95.040001 330.14096 414 340.64096]/Subtype/Link/Type/Annot>>
-endobj
-13 0 obj
-<</A<</D(summary)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 317.54095 414 328.04095]/Subtype/Link/Type/Annot>>
-endobj
-14 0 obj
-<</A<</D(introduction_to_machine_learning_system)/S/GoTo>>/Border[ 0 0 0]/Contents(Introduction to Machine Learning Systems Design. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25)/M(D:20220517135306+00'00')/Rect[ 86.400002 292.49094 432 304.49094]/Subtype/Link/Type/Annot>>
-endobj
-15 0 obj
-<</A<</D(business_and_ml_objectives)/S/GoTo>>/Border[ 0 0 0]/Contents(Business and ML Objectives                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 279.74097 414 290.24097]/Subtype/Link/Type/Annot>>
-endobj
-16 0 obj
-<</A<</D(requirements_for_ml_systems)/S/GoTo>>/Border[ 0 0 0]/Contents(Requirements for ML Systems                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 267.14096 414 277.64096]/Subtype/Link/Type/Annot>>
-endobj
-17 0 obj
-<</A<</D(reliability)/S/GoTo>>/Border[ 0 0 0]/Contents(Reliability                                                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 254.54095 414 265.04095]/Subtype/Link/Type/Annot>>
-endobj
-18 0 obj
-<</A<</D(scalability)/S/GoTo>>/Border[ 0 0 0]/Contents(Scalability                                                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 241.94095 414 252.44095]/Subtype/Link/Type/Annot>>
-endobj
-19 0 obj
-<</A<</D(maintainability)/S/GoTo>>/Border[ 0 0 0]/Contents(Maintainability                                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 229.34094 414 239.84094]/Subtype/Link/Type/Annot>>
-endobj
-20 0 obj
-<</A<</D(adaptability)/S/GoTo>>/Border[ 0 0 0]/Contents(Adaptability                                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 216.74094 414 227.24094]/Subtype/Link/Type/Annot>>
-endobj
-21 0 obj
-<</A<</D(iterative_process)/S/GoTo>>/Border[ 0 0 0]/Contents(Iterative Process                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 204.14093 414 214.64093]/Subtype/Link/Type/Annot>>
-endobj
-22 0 obj
-<</A<</D(framing_ml_problems)/S/GoTo>>/Border[ 0 0 0]/Contents(Framing ML Problems                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 191.54092 414 202.04092]/Subtype/Link/Type/Annot>>
-endobj
-23 0 obj
-<</A<</D(types_of_ml_tasks)/S/GoTo>>/Border[ 0 0 0]/Contents(Types of ML Tasks                                                                                                        ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 178.94092 414 189.44092]/Subtype/Link/Type/Annot>>
-endobj
-24 0 obj
-<</A<</D(objective_functions)/S/GoTo>>/Border[ 0 0 0]/Contents(Objective Functions                                                                                                     ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 166.340912 414 176.84091]/Subtype/Link/Type/Annot>>
-endobj
-25 0 obj
-<</A<</D(mind_versus_data)/S/GoTo>>/Border[ 0 0 0]/Contents(Mind Versus Data                                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 153.740906 414 164.240906]/Subtype/Link/Type/Annot>>
-endobj
-26 0 obj
-<</A<</D(summary-id000003)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 141.1409 414 151.6409]/Subtype/Link/Type/Annot>>
-endobj
-27 0 obj
-<</A<</D(data_engineering_fundamentals)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Engineering Fundamentals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 116.090881 432 128.090881]/Subtype/Link/Type/Annot>>
-endobj
-28 0 obj
-<</A<</D(data_sources)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Sources                                                                                                                     ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 103.340912 414 113.840912]/Subtype/Link/Type/Annot>>
-endobj
-29 0 obj
-<</A<</D(data_formats)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Formats                                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 90.740967 414 101.240936]/Subtype/Link/Type/Annot>>
-endobj
-30 0 obj
-<</A<</D(json)/S/GoTo>>/Border[ 0 0 0]/Contents(JSON                                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 78.14093 414 88.64093]/Subtype/Link/Type/Annot>>
-endobj
-31 0 obj
-<</Filter/FlateDecode/Length 1035>>stream
-xÚÍ˜MsÛ6†ïšéØ#Ø3ø&pLâ¨]'ÛÒ`	²™ˆTLRvıï» ¨oÑU[ÛŠx!àÃ»/V„[`@ñ8	_Z³XÁ0‡[<¤à i‹DAŞ¶LlY"`Én«éÙk*6‚'xi>nÙüü3xÇ3¼Ù/@c®à~ëF«¹°û >ö„,\Rr‡M3à©•áÚà ¡w›ómÃÆZ'‚#çªÑÁµvy
-=X®{oRxÕ§ÀUÌ9¤ã•ºœ©XjH3!¤9IİÕÄÃto§Eí‹ºŠ ıÚŒSõX3ÏI3›„ádõL¤bàùPú±útüñÓŞß£Ş	Wœ@öWBzïÒµµ¤;ÌZà”Å”Ú-ùØ¦v»p&¨ÆâF&œïcÇ &cFpÆbN-E¥rTêòÎ—w™¿Š_¸áMVx8÷®,²âUíóêéB!ÕX«Ã«>¢še–¨°¨<6F,Öôó/ Âo(A*°„l3?Ë'ğrED‹kb-™j 5¥´ÜÏ³Ä}ë*_< •Ä¶€'¡ÔÛˆ#)F¾¬jWŒß~êvåŸ„K%„ñÿ \VÀ'_akx¿G`‚Ø³*üş¡œfÃ:›ÿ£³è0š…"ë$iÔ3‚”n”‡>8×÷®ô‡á­#œo.›émfyîJìÍ-y€ã}P@+¹—@÷2è/æ ÿ’ÍŸ3'ü@“ PtHªçö¾¨Wñ€Ñåcpê«ìºøŸÆ%„"¸™u;_8—4óå{3«§ª S.Îáòê«GØ»ç³ƒ6ØÂõ"Ö·£ü“¿e¥Ï}ánI]ÁxZº§JıGŒ
-¹ì†!ğ]ºIæ®²IV'Şq¨¸Y/Iwİä`”ÚÅØzYÖ.2ƒ8Ä"gD°.Ì×pMF®¡ü^OU$5jº0ämŞ÷”Ó—sâËaO†$‡£HË»¤í—.oöùó@ˆµu^½c¨¤ZÏó]!ÓA¾£†ô·T°œ¸ê[õ’›‚våÒ­¡QJÉ¬h6šê¥à˜bDÒÈ‹·–õÒä´L÷ÂÁÈ0}¤è´Ìª‘ú±BF&&üQbòB&Ù¨dÄ¡•LÒ<³ár(eN®Ø»âë_†´íÏŠ‘ÃMºv“ê9ÿ²‘¤í¬kv«®YÅØ`:+‡¾:ÖZ2m‰¢U½l`•µv¶ßœLËÜ-*Ÿ#Q£í(±Ç×¨Ï—¿1Ošc^³%WÙ²õ®G3ÓºI•p”Ë|±/F¾N$±nŞ÷dY¶L–ğéo]u˜}
-endstream
-endobj
-32 0 obj
-<</BaseFont/GXYXXS+MyriadPro-SemiboldCond/Encoding<</Differences[ 129/quoteright 133/quotedblleft 134/quotedblright]/Type/Encoding>>/FirstChar 32/FontDescriptor 33 0 R /LastChar 134/Subtype/Type1/ToUnicode 35 0 R /Type/Font/Widths[ 158 0 0 408 0 652 0 0 256 256 0 0 216 268 216 280 408 408 408 408 408 408 408 408 408 408 216 0 0 0 0 323 0 448 453 385 470 376 371 456 492 226 282 434 364 620 493 465 431 465 443 379 376 481 438 668 400 398 374 0 0 0 0 0 0 396 425 313 425 394 260 425 434 205 208 386 210 653 434 410 425 425 273 308 286 428 374 594 370 370 334 0 210 0 0 0 0 184 0 0 0 323 323]>>
-endobj
-33 0 obj
-<</Ascent 948/AvgWidth 329/CapHeight 948/CharSet(/space/numbersign/percent/parenleft/parenright/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/question/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/bar/f_f_l/quoteright/f_f/f_i/f_l/quotedblleft/quotedblright/f_f_i)/Descent -250/Flags 32/FontBBox[ -145 -250 970 948]/FontFile3 34 0 R /FontName/GXYXXS+MyriadPro-SemiboldCond/FontWeight 600/ItalicAngle 0/MaxWidth 1115/StemV 0/Type/FontDescriptor>>
-endobj
-34 0 obj
-<</Filter/FlateDecode/Length 6511/Subtype/Type1C>>stream
-xÚxXTW·öÃ™ÙœƒcÂñM™Á’ÄØ£ÈgŒ¢Qb76, RE.  ½,@éR”"`ƒX@Ä{‹½`Š1E™5|ïw÷€¹÷»ÿıŸÿùçœ=ëìõîÕ×^Èe¦¦2¹\şÑì5Á>Ë=æ]à¹ÊÇ-ÀÏcr€¿‡ñÓ`ƒ•ÜĞ×ÄĞOaøØ”~N3ÿéüÏiÜg2™üÛÆ§ë‡ŸÊœÙ¢§©…ŒÈå¦*¾g¯]çz¹xy¹øx¹ø±…ñÍV“Ù)Ş+B­F1bˆñimõG€›§Õ‚5!¡«B¬¦û»/õôfõŸŸÕ|#CˆÕ|ÏÏà0#qá°Ã¬æ²ş¡VvÖ£­‡Œ3rX·øV>!VË­‚=½}Z°§‡UhğrÏUËƒ}­¼ş_'½ggê[ı­¾•QOÿOÿ2Íÿ°ŒLÎşd¦2™R&#&²j™•LÖ¯lRÙ2™ÌG&—É“MeLØ¶dódr"(+Ÿ%_%×Ékä?ÉïÊ_Éß™0™mân’jRdrİäO…µ¢Nq^¡7%¦}MmL™Fšf›Vš0½fúØ´“û€ÂMáê¹Ü¯\§òCå,¥‹2D™ Ü¤<¤ª²U%©ÊU¯‰%Læ“x’O¶“s¤•¼3ëo–cVovÜìºÙü ~
-¿„_ÉÇóùüÏ‚LˆšÍóPóâgpÈğêœ=R€©!¥cngŠ3éI‰Úb6¶G­èQ	ÙèÜÈ$pîZ£-Íf?G$ãŠ©érucY:ÇŞçÑ>\^lP)pJEØû&¬¥½9+Z(U ãu¦€­îœŸìû-¶˜åh?‹}³ç¾ë^†Pû± 3¯™mf\f85îK<…§6FÓòòon¼¾ù×MéøB²âSæH}ùííşÑa=èŸï¬9ƒ…ás©Ÿ:GÚ›3Õn¢n–»Ö¢Î¦·›ùçê5j:µÃ&\‹ÖŠ6’nbà°àÉäd6·ëôş_ËµÕÀ°£áò†G
-üºcšÔŸÿ›‚¯©¹4€WÓ/…ÉóÑNñ€òRİé}(«zD(ËÅNìdGÔCpíyz(jğ¬4=î¨O~à@‹f´Ë‹—öTV7jE×Û¼V¬òsÕˆeÎÕş;5ê1¶áò8<¢8ï.aX‡×$ aï¼8ucü3CÄ3y…èèÉğ9Ÿ2Bú‚7z¢CÃœùV3-¿dxağ*Çôv…Af9â[1üÎjµø5ºö‘zñIe™ô/¶âÅ?Ö+VŠOwáØGXnQğ-^Š÷ğ¾åZà	2îà(N|5´/÷6öm“ãvè›4ÌH½ƒ[oãàVÆ]©Ç/Ú÷s&çp^|5‚§Rg²ôu×!†£/äõøDQÏøFùn
-oX”¿±ù?üÍú/ñ:Zà+I|2Š[¬yñ:,Ú¶à'o">¹KwH£1ÃP(ÙŸâÈ[XtG^õûëWã¥ğhiH”ÆğïŞ]°¿Åa´ëÃ§Òòš½AÌä~nnU«vjÓéoŒX½O+îï¦»kÄºåUFW¸¬nÏ-na/jÒ¶åb5ÎÁ¥R‰*ùxA}u+vİ{®ÂeÏÛ”‡eàMJ¾áŠóÊ³¶Â~¨fÄeá+W9±šÕšù›æŒHN¬k îÆƒ÷°ƒ÷U{j|ÒVÀr"Ö¹WùïÖ¨2_Ø=À3zya¤÷¢ôŸ÷@Ë«Ÿ&=À˜»èrÏâT;Z¾…&âÛSÒ·¼hÇ·O–ÆóßšÖ*Å·¶¼zKâKCâù6ähøCšÀ«õI­†äŒó[4Q0¶‰|ûé;^m¸ò	În“ŸbñuÇ`%MâÕÙLŠ†'¸¬‹xÊR8ê	…ËĞ¶Ö(Õm‰ÏpÑcôÿ5¼Ôb*ĞîµøÊ0Ò`"MæÅ{eÏY´Øñj”Ê¡ßp{8CAkÄ2ï{æ¡ÏXàÚ„wA3Ê^=6şÅ#É?Ğ3‡}€NÒT^ŒûšÙk¯¾ú~;e:¯N‡§†{İì–3Ø19,²Òp"‹¾zC½Xg³œÉ‹—g±/–ï_â/8Ìr6¯ş3¾ÍŞ&7
-=
-Œï°•~à“†Isxõ%&oá#Lzl4Ó'Fø¹|û8iŞÿâ2,Ü
-—º”õª‹»öü	8™àt{NûÑO'Ğşt»CÍ±§fä$åÇ7ÿ¼òØjBçá’£Ÿ¤a¯m¨¾äjíAEúY(¦jÕw™;îcä/F!z£œI1ŸoŸ(-àÕE‰m†”¶p‹]oÑä­ØR¹E²çÅÆRfï–…Ì“Ì×“ãÇÌ[.búóñ/ÃåÇõ8L¯8Îl½˜Wß,cÁ-Â-²ã˜±«-qD‡%`Orb`ôø¨ÑqcHŠ2öşÚ'Ñ7È<FÍ ‡¼³aEù¤1-jÃåE=˜d¹„W×1iw†F†Ë7>Q¬,xõ®n«wÕ«õ–¼:ÚQmòB|¡(´\Ê«wÄß]†)W_ß³Øò'š½£ğ5”œx±y/F9³w¿}’¯>ßúí]ly†áÍíØG/67coIŒ÷”iŞäpbsÖéLà¶:omòË•Vü8ü6Zë>á!n$sû*Û;E	r2ò36emßZ»Èá²©_>u±vç®;œššyDíØŠ-­ò&xS›äÚ%ÀÜ0ÃÀ.jôØ§‰º•µš™ªŠÜé_âdÜwßĞ	Z±™~ytÀKMÔÕnŞE˜DbÔr¦GßÎÍ’¯®M¼Ú[øÁ]yÍìóZÿB_ÉO¿%yğêÌoCoã‡­ºp‹Ëz±í,Cİ­Û*UG
-›š5›¡ %'™ˆ-¿pbÛÚ¬Ğ~àîÑş~^±‹a!	™5ş\çP•ú,uzˆfñÊƒ1Ï,jÛñcV‹=ğ±$¾òd™éÅ÷EsÉ»+£_=eZÉ›õ¨Ö+š-W°¼É¨‘á°'K¥FTR=+É#,}Xå=Ú1FZÉú†/Û6œNk3¼~¿³UT¡_†P'É•|ìÛ±]ò…ÀtO"¾]Å«·vÁâjvX»‡3óù3”¡,J¦Ïg‡ë;¦Y)Õ¸Ÿmtoì£¯y=òí½>e·`’¾—ùş7O-ºD›-ƒ˜`Á¼º)ş>>{À¼†Ÿ2|C¼Â§‘B™ûè„0Öı°Åhc 1s4S{i53Œ¡¶HáÿÇ®Úî]¸•mk7lUŠ¯à|fsú2œ¹ô^¢}j·ºÉ»ÀÈ(»átpbà#í~Ø¾µ¸–d*ÑÒbÒ¢St1N!Ñá@C.¾|¹õâam%”fydÄ¥GCQÍTé­g¶cå©9Jñr/Ö­áÕö‰÷ğÙ}ù¶×§^+J·Hkyµ-‹Ê»·åWôŠ+†KR$¯¾ÿdì=Ã p‹¦v4c–0ô0DJQ¼±åš1½‰AÅÒ;Äºlö?êŒ|("û‚MfI°<Á-Ñ™¤*$4$Ô“¥˜Ì²;X«Ô¡Œ¥áZ7o4«¤1¼zc—åÙˆŠFÕ1Êa†v#¥CaÜË«ı¡Ï·ZlÆCtÖŠ7[Æ1æx£«Ùp%?_q¾#Nú¨ûÿŒR©İ;Æ¯c§(7Ì•rnT½¨¸FæÇsŞs–
-¶!˜œ#åvçÅs+æ¸‰ŒÉÆxä)ÅÕÿu‡«xDšb¥ØnÚ‰ln÷é}Fš{wg—êáDãıä²{éÅ›†á,Åß¶~Ÿ_Åß•_ÏŒùu³;¿<Á-:ÀÏó}~Ñ^*ñY±êtAİ>Mä¥lJ!âÅ’ûœø,fCèúX‘ÁA¾>ëƒ=YÛ•zÃPìeLÊçw÷ùêYS?4nŠ¤Q¥ªS¥nhê &®$ˆ÷Š°šÌÿÍØëaĞÿdl¹m[¥:Zzğ¤¦
-Sò’Hç½J¼×a£_ùØç-†)àá°Ü#r6¸’Õï‹>íÆ#¿LloêÂü´ö´Îğ®c¬$^Ó%ğb«.‘Ïëªïplµ1hã*p¯˜ÀP×á‹`‰ù/í>í~u«¡bz(BÿoM~^ö÷AíÏtŒ–şÿ€»Ôdˆï5-êÖ´]ÅÄ5ªzM÷Ó•~Z¨êRA­á•¦K&˜›9Ÿİa“MçâìmË6(u¹6yÔ9‡ç6çv†n$†YtVVg@ncVu–Yº9»Uduºgÿ˜U‘«jáõB‹¹¹~½y<Úÿ%±ÁX”­0N€–²²ñ27Y²¬\vHvQ®’käÓäò@y‚ü¢‰ÌDm2ØÄÖÄÑÄ×$M‚2ÅGŠŠY
-/ÅE†â´âwS3S­éDSÓ5¦:ÓÓRÓ3¦WMÿƒÈys	\1wŒ»£ì­ª\¨ŒR¦*w©TªT‘ª|ÕQÕeÕ}’aÄ–¸‘l²…ì ™YšÍ4›oæh¶Ê,Ó¬ÌìßÎ;ñ>|ŸÅïáòO^øHğò„ÂáùWæşæMægÍŸ›Ó={|Úcäx‡ÑTIe£îŸ?s?ûËó…VØÇæ©ït3İİ£ÏİºYp®N+üÛ¶³İÛFkû	öô“ºè¢“ôÓcÉmåüçK±à4ÀÙ±÷‰§D8Örûd¢ ã<ìcƒŒSqö:èŒ¥ô“y#ˆ@Õ³éÇì5ç': {ş~ïwŒÁ).8”Zj…Ã%ƒèçtHø×Ú…°º5‡ZşäFxÛ¡¡¤Æ•ŒAù©à„Ô=Cµ÷wû·Ûí€jøÕ©•Š0–„E²o¸ÒüíepjÜáè;®ÿX+2gØqBUäèƒ€Áõçğ'¼X|ì‡’¡NoÛu.À/öWú³tw\A6Ëm)¬Î¯…ƒ°İìÁnzS®ó?ÍÃuºÖ¼óBˆ€c/=šjè7@EWt‡I@ÇrBq}AMñ~Ö6R<S<ÀƒĞ*f½Äåg¦—¹sÁ{èGçÉ'ou‰°á*#êöZÂƒ×ì?‡7{ïôŞe_àq	i¤”?“˜şÑiiAIöºY+İLsôcB¿ş™š €f'PÆ^=ç¶Øh–Ïê’¬6?İ×úëÖÒõE…@gğ;•¦‡ŠÌÍ™ë«6W 9Xá0qXğbW­0ÃSUÔ¹óğ@wÃ¸Ä	‹¼çrq<š¼¹}M5Ğ²üôvR	ö•€fòxö•áÃÇÏê¯›Ïiá§ª¦}Uû‚÷ºÁT2İÏİE#ì+u[¤×0·•a[}·Ã1Ò¼uÏP%P¶ştîñÚ¸¸—]¸µÏCšQåtjÂâQ¸0ñ¦¶—n©b&Õ}´È×74tUT@Bxòº´0¦ÑşÚET®…•©1É11ÁÁàÍi-i/vîßÅ¾ï¦vo€jÙmøC ƒŞÙ¼İÈâ¡‡sÙûrÎolb¸ÙN›fg»mt8'T&×¥4Ã+øyËûkw7Â1¸çrnü£Æ?oÛyÎÁÁ¨ı+«İêæçÌ†%°,Ù;›2óÓ‹€ü\¹|Á..µ¾JáLÚ1¶K=fÀ:Ğ¥Çe!2!8)ÈØ©p:Îºyñºv;%%Ò§ÜºìU›\€PsúÙ0šG=ZÙ >LÛ »6–æ¡<¥.¹Ã…­ÚığsÀO|Zí›İë”Œgs©k’_<$#7=Èó†Q¬C/Ÿ:{’6bÁx6µÆÙ]“Ş;Ü×FgàJ´V
-t‚õ5:O™˜“ºÈ÷ßŸÅ™8ÿîùÇÚP‘XK„°\ïMN@{ÕN¥YiÔ|ûà£öN'".Ã8WG„w6z<„Öô¾ÃÆŠng'mW‰¬¢ƒW®qÖDBtº.“ùI[RÊ¼¼[‡“µ†•V*¡”;O#¡GÑèhƒˆ_cNúÒ0.:@ç@Rğ|_¥€{Òi†{VJá°+UÁ,ZÉ…Šú>f»ôDßZ{5ì1™•”çw6m‡9œ°şîú'é·˜‹ó&ÿ£x*ù™–^‡+XÅ](¾—ƒ}HûnığõX:ÏU±A(ùeòm’¡,±«[>›°ëò× 6CYnÏç€öÈê¿a4;-ì‚ÏãĞ3„r¸w  £úÉ6&:S—‹´?~ŒÂ“ßq#N_`µÂµRjAÕô“Õ´Ç”©oñKìË¦Î‹Z¦}aò\Ø²§©vwI\‚“kxït¯ŸŸoK™KW]šYQ äZå¢Yã=–~¯…xˆgmÇÊ£PáŸo7®`ú¦‚
-¥nkäµ¨ûÑwƒ6³w©¶şÜ†ãë½v»×ÍË›Â²Ã)Ù«+bÒóáJZ¥3L'SÜfj”BÙºCëö€G-Æç5Ÿ6Ç§4–ÃØ[½÷ì†j]qÖäºç»µ »1Ğ&™vsé1Ï~°ì½=¦Ã
-pÉ.$‚ŞpÕ¿Ñ¿¾ÂJ¡s²Š;={¢Ù¥û8Ic°µêœ«¢&~>Ë\}v¡\c˜«a)Wp%ïFîæ…ìñ¹ò¦‘ÃtÊ?è°é.´‹;9vóBÜóè›ën“Å¸o,¤¸¨1Q“âlØ˜÷ ¾Ew—¸`U°.Ñí|‰½ğ¡ƒøŒ‹[ëíÂ böêvêvGÔwZĞô#úJPËåÖåíÉk`’ï’çUàIÑ¾œ X…CØæ¥t4å°Î!v‰1úGY×È$C•€;İÊ	ØÖF}Øü°Ò
--ô&À0tH¥AùœğÆ÷µĞ°ÎEJ'qU›«sX½:Zêí ffIë»è‡D°9:÷Šfì.­¨'Æ˜åğ+pIÛÓöB= .-.5!Î3hM„€)+VoæîK'BTüÚ6«Ìp?ıû“İ7/kËasBn2)zÈEoØèÏêŒ4–ÊYÛµnD»j³³‰5ï9p©u©Ç`1œP	lğÑ¥ÄE;ë˜sĞ¹ß—Üú‰­->ë=2bAÇ!=?£¶´\Üöyÿñ_ÑÑtğ¥ø¡¦š6Õ¨nuìªø0–Ô¤¡œ'Ê.€z¨\–6ép!ã`æ2”é–¸8¸µ;ü«XüÆÖ†ÚÒ^ÍÔäµ¶v•lŞI2<•#üÜfj<À/gu.Y=†«]·7®Uäæ’;w×T1Àè´uIÑ1n¡±Lf7ßÃoÛÊ/f2lÌŒÍˆÀz<£„¼Œ¢ŒM¹{·–lÒ˜»t‘–`töt=o«	‚°„5ºÈØ¨(İZ’Š9¬ğ"­:#U‚/Ç`!Í»"¸vAEEÚnRR¾R#ü˜şSÁm?î*9o‰ÁÑªs’
-Æ$­XœšÜÍ³ÈÎŠŠİÚúàr_Ğ÷İ´v´UVìH}P úîf)âJ	Œ§_sññq!,ÂX¶3‰Y!ÈÌÙ´§¢ÔØ·³–¸héy=SAazAFNÎî-eUŒ½x®–lÇK*4w>m«	†ĞÄğ˜ˆ˜µÑaií¯rÖ¸<üC½HªÑê'‡—ášáÁ¦f˜Ÿ”PœQ”™“³§¼´HSÎÒ¥ZzV×TÈ¹ûF³Ü‚B=º8“Nüçk[jGÇ\ı×?£ZOyú¹V8–7ÈnRÌ Eó×µŞ¿šûê¤±æÅd(‚+ƒö³«ĞÍ[h‡_8¾¤]^«C»:Å`Óİ2Øü @~z^fnÖöò¦[óÖƒGGØ.Ô®…àœè¦”ÜÔB`uJÒ‹2órÖ×ÖÁ&ØY©D¯JLOLwp÷p )FØFØå™àL„-ktõğ.†×pÚçàŒjb
-¡ªŠËëØkK\IÙr‡É_•ëÖ0{6ü«œ®¹6ú„Ã*Xæ	¾àS°†5ÀÌ’f©`rwyHYXmÜN¨òÌ¢$õ§KM‹ZxZ‹^ÜŠ=T‚½¬„ÈÔ¨d]RÄZ_ .ÑÍ—µ¸·/ıIEÅ]Óh@}MIuWÎo\bÌÊ½©ákTæ‘Ï 9!÷@ÎÁ'X¥Ü¸ Û)×‰4Ò¥ìbğñ^4ˆ‹[ïìÈêaÂáØfİ1â„ß€#]ÍÅ.ÓÙ',e·Ã¤ƒñ‡ãÂª•	M¡¦4e°ûwnSeNev%ƒŞœL~ü	°~güwB•÷..0Î?.ET|eÜ6]5ñ~É@¤ÎE\3½ñÚšš˜·z]PDxXhèÚÕ±dçp®dãş-õMÇ.îx[ù–<Ã?ú±BZÊ%®JôMbPIÛ’«vXÌ°µÒ)ÊÜ²ÍÕ…ULï>˜×h-À(ÍÊ(¶Æ?*ˆĞOh6'¬ÎóÈqfUm¤U|§0NŒÔ®¯.*ÉÉ/ÚTE—”Ã°k(¯‡ê¸RÖYWç¹ç¸ü7S÷H-ü'ŠûI
-endstream
-endobj
-35 0 obj
-<</Filter/FlateDecode/Length 283>>stream
-xÚUQ»n„0ìı[&JÁ+pœd!ED'Qä¡àÌB,cSğ÷Ù5ä¢¬flÏŒGuóÜí!zw³jÑÃ Mïp™W§®8jI
-½Vş`aª©³ "R·ÛâqjÌ0ƒ”Ñm.Şmpw‰â{ˆŞ\N›‘ˆ¶«µß8¡ñWô8ÉKg_»	!bÍßÚçfÒÀ“#uîq±B×™A¦q%Ë¢4ıÿ-Qì‚ë ¾:'ÂÁ8¦I00c˜˜Ì.i
-yªÒ²L*’&çJPÂá•ÿ:ïA2-éÌ9•ìIêì)Pvx$‡<PBBDOLË<ÜŸ3ê#cwåâ†oÕ¨Õ9*-<C(‡kÑo/egË5ğ'~ ‹]
-endstream
-endobj
-36 0 obj
-<</BaseFont/GXYXXS+MinionPro-Regular/Encoding<</Differences[ 128/quoteright 129/emdash 130/quotedblleft 131/quotedblright 132/copyright 133/uni2010 134/bullet 135/eacute 136/aacute 137/endash 138/quoteleft 139/ellipsis 140/lessequal 141/notequal 142/summation 143/multiply 144/quotesingle 145/minus 146/odieresis 147/scaron 148/ntilde 149/udieresis 150/iacute 151/Aacute 152/uacute 153/agrave 154/ocircumflex 155/ecircumflex 156/Dcroat 157/uni1EA3 158/abreve]/Type/Encoding>>/FirstChar 32/FontDescriptor 37 0 R /LastChar 162/Subtype/Type1/ToUnicode 39 0 R /Type/Font/Widths[ 227 276 0 480 480 756 711 0 346 346 0 580 228 356 228 331 480 480 480 480 480 480 480 480 480 480 228 228 552 580 552 379 753 691 588 665 735 568 529 715 766 341 329 673 538 891 743 747 563 745 621 474 617 736 703 971 654 634 603 345 0 345 0 500 0 439 508 423 528 425 296 468 534 268 256 496 253 819 547 510 524 511 371 367 305 531 463 685 472 459 420 0 263 0 0 0 223 922 398 401 702 356 390 425 439 520 224 970 579 587 536 580 169 580 510 367 547 531 268 691 531 439 510 425 737 439 439 0 0 0 480]>>
-endobj
-37 0 obj
-<</Ascent 989/AvgWidth 540/CapHeight 989/CharSet(/space/exclam/numbersign/dollar/percent/ampersand/parenleft/parenright/plus/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon/less/equal/greater/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z/bracketleft/bracketright/underscore/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/bar/quoteright/emdash/quotedblleft/quotedblright/copyright/uni2010/bullet/eacute/aacute/endash/quoteleft/ellipsis/lessequal/notequal/summation/multiply/quotesingle/minus/odieresis/scaron/ntilde/udieresis/iacute/Aacute/uacute/agrave/ocircumflex/ecircumflex/Dcroat/uni1EA3/abreve/cent)/Descent -360/Flags 34/FontBBox[ -290 -360 1684 989]/FontFile3 38 0 R /FontName/GXYXXS+MinionPro-Regular/FontWeight 400/ItalicAngle 0/MaxWidth 1974/StemV 0/Type/FontDescriptor>>
-endobj
-38 0 obj
-<</Filter/FlateDecode/Length 11232/Subtype/Type1C>>stream
-xÚuzXÉÖöŒãL7İ0*ãxµg{F×¼êšsXÌ¢b”¤€ä8ä!LAÂ²ä0 IDÅ¬˜ÓšÅ„®»ëºIïİİÓÜb¿ïïa÷»ÿ÷üÏó?0Õ]ÕÕU§NğSÍåÎár¹¶AáAòğQòY»übC½£,­3™Ï¹ÌÄaÌD3i8:?˜şÉ§9œ}#Ørä”QŸqÙ›‰Sl9—‹;aê—5´¬ó‰’{Ç„úEGûEÆz‡†Ëc†®Ñ±aaŞ1ìDŞû£üâübÃƒæÍ™;‡½Ì]¿z~Óø¹K—Î™i)ç•ó†ÊCåâ¡rÉÌñóæÌ™3TÎ*Œ_í+ßï7Ş1!:Æ/,z¼}¸<*BåãçûåøÕ¡¡ã£‚c¢ÇGùEûEÅ±­t<»Ômò¨0ïPNÒ0—³cä<ãâÎâÎãqÑ°}ÃzyÓxËxªá‚á³‡+‡3|Gş‚<Af‹MÀ¦c³±ûØØÏø4ÜÿÉÊÚê«5VZ«jBDHˆÅ„±p!¼‰V¢‡¸H\!n_ˆƒäpÒŠ¤ÈÉäÒ‘t!I5™Eæ‘&²Œ¬"ÏÉ«äò#	ä õ0kÂÚÖzºõ,ë¹Ö¬]­Ã¬c¬3¬K­+¬k­[·[_°îµ~lıõÖÈ†gCÚŒ°ÛP62›Y6Ëmìmlm\müm¢mÒl´6Y6¹6¥6566-66İ6mnÛ<µy96 £¹à™Æ¨[B¡EèX„½2æ?1HÍ¨H½Ô3SƒÓ°Åjİr­Tefl©^­Eü€<°Å*İ"K{•[¦Wç¿¦˜i–÷_¤¤ÂÌ˜AUP}£¸«´«ìA‚êm•ÎÅ¾Å¾*õV5.ÇÒ¡EŒ¶
-š^6¿m~ƒçHfäÀ,1òG¶h9Ú„œ`š ö°fÀX4Æ¢U2E€şÃĞp€œ¦~‰xhÂ$ alÿô#—‘`bœÅsĞh;´ñ^¢a@ÿÄSX#¿ü”¥‹ßš‰¬í²×a©Ó`ü×¯ËÈ…cÌØf}ª)äÍX³	v9€]¨j,ò¬&ûyãirÀËÂ0•\ğµ®J©÷ÅóBs½gS_ahé>d&¡‘[¾‡…RˆÇ¾5êûòÿâaËÃ¹¹²2Û]İ+êîMé•Ü¾SÕsRÖ{­¼êö}ÎñÜi~gMÉÕ<œ¼¬6¤)ıâ¶z!B¾qäM=’_pÒˆ×!Ï(ì¢º µÊ©iİ	ds	ô‰Ù©ºäŒTu\|`Œ§"*T'¦©TITtc´¹¤8¿"_Zr¡úòXp–~Uw¾á²ÉxŞˆ“ËB"ÙWçªc\åÛœ§ûÛ{=v{éı<¾å@Ñ}nFj9vU[˜vlãÅ/Û7·9à‡ÂòT
-
-+¤çY¶¼İŒÍÖ«¯)ø«Ï-,®—ö|ÓÚ{âaÇµÂ‚{–)6Á12D~V´k©E˜·R©H“¦Å†j‚$Èy¬€Ià ÃÙ¿Y#a­Ì¬WßÖ]ÌlgYU½D‚\Ğ6ÄGÉÈ¦""¿¬.½.Ó6d5·QıØ•¼ü«&)ùŠÇÌbŠÕ7tíx‘Ÿwá^	¯Z:ñ?ºŞ’=ö¹¸šZ³ÏÃnÒ¾×’¤á½{ñBcÜ8“®TS§Â5uÍêN	Œ{÷ú7>óÔÊc²î­©­—¾­ß°¥œ•dŒÕÌ¹ÔàçØ2µzFJ2à‰½ö+½$3O‚ì·Ş‹·ÛÚRåM2µ)?3_RX]]U˜iJ-”'ûH|·'ùì‘mÚ¼i5şÑd°½r§»·›gL8¼KaÇ˜ì—ÎôÀ'Vü3ó3O‡ÿ›ùOCÎ7Fv#Va(i0Å3™|´D.øN•Ÿ¡BcRïXÑ{õD­§.Pã­HÛ©ÁåbÆìÑ†=YÇ²»ó^â¢§¥p”Ÿ#€˜ÁÃüJd2'øy‚ÜÁ™'dè–©ÇÉ1²~]®°ı¶\úDQîŞb¢Â/QîvBT8“m[Dˆ¾ÜE“ŸxÌ¿axª«³Ód	šÉªÕhØ3ßÁXœ«^êeMíí1õåqùòÕË$(š5)2VçÙAÎƒ×•³¬¼¥îQÉIœü9»yÜRbûªÖfzÙ¡Ü’B±x˜ÜOƒFI6lËÉ–‰€<YíŞÍ^]qÑ=M	p¢ ,-§F)‹díÓÚé¶àM‚ÂîÂº¢r¼áP™	8X#@ã‘š€\Ù«›1y,S"(ì,olÇIæ£ëzuORq‚ø$µ6B2(ÈSsjRd
-Á'İfİv¼QPÔm4ÂkŠ+¯$×Ó+Ôés,’ÌŒÍÔ«ú(&í>öø&ºLV”dŠ*tÇIÀÕõ	f0µÀù[ı
-ß³L==@–‹cõ1…MÑõqõçÂNxßIlÁ5Ÿ?ÿ†ºyÂ§^ZççfZ#A‡Œqæ"J”<8¥^ú·Ñ]®Wéû)˜ßŒ;¤”’‰N7¹µ;´¹ØÜû8Ï**Ì.’.€gbÈÂòŠùR½ñP^£äÉ}ÄqNòñ“)¢‚Õ.¦‡ÓX¦Ã.P²×àÅ’xy`"+|1¥{¿vèôÖéÍİ¶œªjd%èÄ•Š‚G9LcwÔùéQ‘naîŞ›=ïøõ_N®Ï1]5°OÈ±ûê’´®Ím§VŸ[¼ }¶gmt(.zîšºKË
-g‚ÛdÔÔo¾Òy¯çÑé'ìêöWkT¬èbB9‡™Wş oaùhÏ˜Íä¦W˜v_v½€¸0ò«îŞ»ÿhÛÍŞš‚'–5r¬:ó¤.;=<`Ü>§œvË#)±ZÖbï
-Oõ¬.d°Ö¤›CJ°ù*ÍW~[œXºá
-va‡rK2j"¾ğbúÓ8)ö¢aÅ6:".VU•O˜Áï8#V°-{1MÂWÚö“EOÀõ™7=pdL=¶K¯Î»C3ö³ÛÅ•òHeJœ4*9<><?§ğjr—„D§%E²»›—‚¿À<.©j<ëUåê¶PÈÛ¬ÒÚ+i7Ö«Ş¢D/@‰Õ5u4“\«ß¿Z†ì0{•.€àzÌ‰ìÁ*²
-I›­l—Ü¨Û·N†–cëÒ2v„dJ]ez•¤®Ù“(á‡§¦&%H’’óhRÄáÚ>Jø+õeZYœ@í•¼%Í¯N5¶¤É\\ö ¦9»U²QËĞè…H¤O¯¥ÇÊN•vàävú·Úö\ÜB8¢÷`5Ø"N&îRğ3æ™à‘ê¢Æ£±«é¹ÚmÔh·†ÂàìzfLmL@bX#a5ZvŒœåÚ6£Òäy:LÛrº®½²=lï*Î¿f`}Üæ(ì¸Î KIV„*Âw|?6Áœk:®gy°îOS¬nr{‹>¾/ÂGˆ‹Şû¸¦©Ôx$l¯Çö˜*Z+ÚkT·<BVcE¨Õ^:<F'ø†(xr²*>–ÚuğÚfà±F¬~úøóÒJD3¿aAJ‡Ä=Zv57túÌÔ`Ë}ËjHvWê›:êIîÔîÛ`á÷ÚÂo´n`˜™ãúypÉâP‹ä‚Z£f1…~ÀØ©r—¦ï
-Ûë(/–­3¶V´Æo_«¼£)†À^-J¢ƒiâËGW¬ğõõÌ’9ú]zö¬£«[V=¸FLV Mì=¿]å²ö9õ5V2#Å}˜G¼c¢·†¥óº:ïÀfjĞÅBç­4Ò°•Mş
-şkÒ³pSäO0ƒúÅş[ÄSÆëÒ¤³ˆ+:«›%¯møkù•ÕÄÊ„0
-ì2MJ2•j	onJ{Ô¹yw“#^'h¼Ø|¡ã.,OÍK’DFÊÍ4™¤‰ôIÎJÏM4%ÇÕÅ´§áä€¸¦zø½†ŒÄNérÕŠĞøˆ0ßØØä¤„Ô0-Î„`¾©»İÄ5m¾ÎŞÂå-Zõ&­4b‚	•ş¶‘È1äÌ“˜LºÄbÙÅM7–ŸtaU³1‘ˆ`ã‡ˆÚèz5nò…cöÒ$JÏ#H3ó™dmšÛEîeÈàÁyĞ‹Q‚ Å‰ñá™Ò³%'ì ™%òeÎŞ0’’/2}fV5DOIæ §Fó·û)â¾’LàŸÜ†xÑN*óÒJRqeqgìIÉØõ=t¹>ÿ,õ7VÖ–—–á$+íœ+¹
-Ëp÷ÈÙº¶-¨³­ç®HEïLƒÏÅ[wœışbë™fÙSßû^ä÷^DcPKNî!ÌqÕ‘$öRk´¼{‚Ì"ÌŠõ„åş,ş©œ¯ÈŠÎŒ•%Å)%‹]~sÅüæ©LØÂÈZ,İ~#cı"’’ñØ¸ù^j|¿ÃıÀ¿	Vo·ö°"ÛİõĞÄÊèèW$Ëá°zŒ<‘œãLÖc[
-h²ÌTYo*ÃÉ ­‹Öí NFàÎŞ¾›WQ“Ï 2S:£íg¬Çx•ÄĞä:Â–¬.hl¤DO_l¼3Sš">yÎñvRÜ\[ÓÖ]XÓ,Š·&mòZGm9ë\zPp¨¾¨¾˜„’ì¥—…5|àüÑşÑ¡
-i•ÆúzI´ÙYÙóÀÅ¹Î%ÁÎdYyµ¾GBn9¾¶Ô°óÄÔ‡Ä°óÔ°óô.RuÀÌØ¶e+ ©¦MaûöÉœCŠ@ô´ş–ÖÈ½']UN¬3¿]«7İ–@¨€4Ñ!¤EÚX^°>ºö5²«ã’GŞCî{òŠ¢×–üÄ¸"Ë^z^vOSåä¦ÈÈúİøµ3æËW©—›ß’ÈjÆçWş^Q‘WT-#»\i2"</OvôÃŒ§äéiN_ô:-mŸ£/ùˆ#h…/ùäT41z\~¿îZA5K¿Œ…±2’}„Ê³pî2Ì~¨6Ú’)´›CvkhR"&Y÷p›"±E*-Ùùµc–‰+ªIS\sÓóPYdKŞ§Nq„{¤Œª©'¹l Ï.àXÏá¬âpì$œ½7‡ÈåÈ9œGÁá$p88œ§‘Ã9Ìå\ãpnr8w¹œÎs^r9ın†€£°„È;9Nœv.k&öš'â­äò²xgyçywyï‡Oî1¼døÛá¿ñ×ò]ùùwø
-¦bU‚‚ï1ìœc¸ƒOÇKñü~?_Â¯ã·ğ»øSüµ•³•‹•¿U”•ÒêµÕ¯VŸˆaŸ˜M¸aDÑDÚ°aójr+y…¼NŞ"ï°²µÔz‚õ$6@mİjİÅÄ¬ŸÚÌaÃß•6Nlè›lsÇæ{ááDá:¡ZØ%¼!|5B4¢eÄµÏFü4â¿GN¹p¤ûÈÀ‘ª‘†‘—G	GµbTê¨Û£¾õŞV¨Ë>Ãüt†Ë–“Îğ˜Ì1;3ÿÜ1K,f~2¢U`ä3‚ÁsbËXjƒ–Õ¥ÆXj–lMˆQ‚¬˜Ë
-ÛÀ·ks£á36ÖHTÅ%åÆäí—•°áÂMht¾¦.;ß`‚ÑÀ‹A€çwæÔ”QU‰&©¨ÿàŸKÅ-µ5í-Ñ¬"DG)\ìíº—[Ë¬à1NŒ›x ™7¿ƒ´ïøM¨wòßÂÍŸ*HßÉÿQàËê_G4ıNPĞË_(hšÿ cé1^`f«Â(SÓÑÂ½sï}Û‡Ç<8ÿ-†H¬OYézh§Ù0VuA{DÛš–£ÊIÉÃÑÁúÉ“ÀØ¥ãúÔªK_‡KÛ“øH‡Í(ôy–p%L5ÖäR¼C‡Gv^J¾"YÔöû½øæíÔ·›Î¬nn©ïªh9Olì¹©—¶¡[â"ÿ^h‰Ï^Ê9hß6µTyÊ&m´6U6¾I«°=ı&=xõ&>\N‹Î3ßX‰ƒk'ÿ9½)†/j>Ÿ70[<ÙkÊ²Ç'úÔõéùs¯SdÃÄ×MS\ÜU“Ò>=[øëu™¨ç<ƒ!=ÛyòPçÇ-?M‘…·ôuSMÚæöéÌùÂ_®±.rÊ=¯8f¦\[m/ôkÀÒÇÀ‡¬-îğf¾bİ\p_eRÆïß—í¿åÖºëÁæúÚŠòR¼ª¼ª±“z¾©w™TÔ=ÿ«óœ¼Ox±,Şfï3›Zp&ˆîßnÿéT¤h	ìò(J.J½sQg(Ö;ç£wWÛùÚNsGKOqù×F|p-ÄŠO·ºïrôu”m?ÚvºÚvì”TÔ£¼-Ş¼æä‡Óu=·OÊ¾[}sÛùøŞàíû6J„¨‰‚d.×xoÜÄ‰QÊ¥^cÈ’µhã©ıá1î
-iAÿFÙ­î¯©›.G½¤B4­ü÷0î×YçŠ¦Š§½Ş	Á»Ë°ğ×Wé²¿ÍB¼)ÓÿÓ<ğN¬ÑhÁäEÒŠX>LÿxæÁ&
-69À|4ıW©ğ1$æBi/©‡Dñiä¾;‘/òw”Ø‰˜5!+Èâ‚Í-Ş GG'E%²'KÖ¦6ÇP~á‘,©…áükå_J}íx4@*ÜI£&%`Ü^Î2‚Fkf)¸uPÏƒ³¬Ò9
-PØŸ®üKa”²•yÚÂm{‰ïx !F_8¡h
-šwa‘,ş¶MCŸ£ñÑè‹¹ÂaŒY-|ñ«sÙLcí9¼_ò˜Ñc°9­ñÅ”cN±;â·¤± ¿ç ¿û@n5(ÆÖê,©ƒŒ}ñ!£¾Ã…û¯yÌ/Ş–šá,AÛğ9Lçÿó±+o©ß–ßœ¿Ó#28Lº+ØºÔaµÌu§ã.Ç"Jyi¾jç_ï}ãF÷3±¨ÿHİ±®‹’óJ¢¬V_+İ»üµÿìi®»×íÚo®‰”©ê,µV¥IMÍJ=àBÕ4ROv¨–|˜qŠ™ÁÒßòœÇxl!¢ô4üúz73“it”µ½|SÍÑÂ.	p/loç½fÑ¶ıÍq²t£:K¥IKW¥f¥Pæ«‹Sğ”Ò®¸“’óïèh4:Â#)ÅOja-Ü½Ä=ò”ox@ï b¥µûˆ¨bú3“Õ•@Æq€'´dxéRèhâ#ŸÏÑ*CÚXQñ£‚aÿ{ğú<Ç±53Ï›mO<wzŸ;Ópİ¨ñë–/^Üı–¿Lô.ÈŞĞ!½?q¸¡Ö`Â+ät„;mG­òØ»%E†Ëp¥…{ôÄÃe£Åvôö`4qsè™Ä QÒÔı	ì÷Ê 1³Å!11ÁA5ÑÍÍµµ­-Ñ5!²ƒƒËY±j‚3 °íû-=ñWÇè˜ àZ¶cMmKkÛQT¥@­¬Ø&F%-bÛª6ÇúS~ò!±ã_«¸wüuÏ©Ã_*<•ÍäÙ^½²ƒYÏò§ŠIs	$À…Ÿƒ1°‹®G‰|ŒÕéw†{‰´¨Î#ñ™ÁHWŒ‰D[şº‹Ël`+U¬SØà:Hä;²Ã Wşl@.lMˆlÙ•2º›¶ß¾ò^Ëvóå*¯O¬j¥zúN47H[Í%umÔËUÏ–$x¦E„J“Sµé©T´YQ,-ê¸pCr¤Fèå°ß?B¶Õ=.,ˆÚöĞéhŠTô4yÿ†ş…³ÆóàŒn°íò¾	:"Eœ±:f‡¹¯)Œ…ílô!aKú×åHŠ$+6l: ‹ÊÊ(6×Ò©91ú”¬Â‰ÚYY{ò»çÙô~uvØy	PŸ`8|Ò)@êä	“¦À¼»·Š‹h¶X¦S¹§ã¢siKv8û'H”*c»ìà­ÆûæfœÅgå‡ª‹$Â%4·&Ãs°çM¢ç§h·ªÆM …³XÜÎüÖÎíMíá—DÍnMÜBÔ6ƒÅ- …µ,Ânî€ê6¹yK˜S	&ÉëNén¶Sƒ[¢rì©Ö¨[`É.Tk‡òèufléŞP`ÿOì»<åÆb™œä‚-©ª9’IÑO Âss¥OOªÕò2YIœ>Şèƒ÷ĞÜîOÌ„~ŞtZE[¦üa2-L·Üñ&Â5´ĞŸ†Â…´0–àÍ&„³hádB¸–àiŞç´Ğ€ÑÓ	!hĞüªÃKë€/’Š¿ìšwÑá8Äà‚ ÖS°Í€qh
-F¶hr˜v|áµ]ÒÛŞÆ^Êá¢§ş‡ÕMê3êƒø ¶Š‘Uí"+)püçÀªû¿ÁÚñ+ç,‘ªô*ƒJçÑÂP–Ÿ´r¯>ƒ°/ha Á=V	>ı¼¹´Ğ‰æ‚u?cÓÉ›BÁ­0nÀÚÌ-‡ğ#Lã¬µÀ®X6ºN×«ãw…Lı
-íqE£ğ‚M`·œ#ï'uçî[’TÂ±+º2u£]/šü…ÜA[ğÃ‚Ç°ÿw6»uôÛbÓ]#.düÿ¿Ö1ÿ5‰Î§AœN—Â†çı,ñ3xÓháZˆ Åæ³lğd}ÇÑb±o:÷ŒÀ±g¹ù¿¥f´êÏ?°¿{kàÂR¶gÛsàôUö‡*W·’úS€­ÈÔW±p_¨C£XTÉd²˜bu5“ÕUÔÊ$@·ë:ì¼,Á“ç:jë9ÿ®¿ƒ§"AsP¬¯j§5Öœ®’
-·Ü,š7æ*2¼KP¦à>ìƒ$Ö´Íd¦‰áæŸº-ÉCËº ›Ú­5x‹¼x6½“U°úLbî÷ãÓR25I²e›Å…åÍF³äÕ×öH€ğİë–ÈvkÓVâ¦¥”p©ò.üÜÃ=úœ7“¦l˜uô;H±d‹ÛİQ%š€‰Ú÷"yoÕãâê<\Ô¾Ÿ.W–Ğàö†÷9!D~ÙuŒUDç~ìã]`ìÅè¯QÀ^£Ûb‰ÃÒê°FMî#
-:ƒêókµ&ÇYı…=ÅxyaYQ½¤ÅŸP)3¥›²M†£Ş˜kÌ/Ì*V&U„—ôÕ$†:ïMrÓÄâšØŒğP*Î%„«	áJå ´¸…%õë’g!H˜±¹º¶¡)¶:BQİ ½Ÿ‚¦.#’h˜‹ØÕu&D¯¶°rŸ]?°FÁ}ÛÇÕ;Z¸”Î'„›®ŠæM¤…ëh=Ò5€ç%†{,]aÛñ’Ÿ±V éÄØzvi÷)Æ½¸“Sq°Jš‘Ëı¤INÍĞJTºƒy©2e~l~@.èƒhâ¢‰Ô÷¦Hïâ£EØ:n¥6ôÃE±J£	•¬^|l€¸}õnóñ¤È™Ğ›°ıÔ·ÜË÷@ò„7•æÜoYrÏ¶‹—¢,ÏtH*ü’zÄ1Ëë¸`xÀÉîÚ%¸¬Ñ§%»Çn™¸$üÏo‘_'Ï1^°$ä¼£°j£¦fç)„ŸD‚Èo\„éçaDËã†«&Ó9.Œ ¸&ø‚Y2…®¢]îA˜Ï:Ğ‘<&Ê2}”`*-Œ&lV¹Ñ»iÑBtoËXÊıw2÷—›<XŒrÅÿNŞò_É|àm÷ì3°iã1A.Şïã§Ø}‡7XKF]Jm4®ËÏÏÈ—”UÖT3
-ÒcèpO²(İŞyG[CÄ{
-7ô NÁ°{İç²€ôiÜûÄ”‚YãÌEÆëe@åÔŒÿ[ñ€ÿ—îEÒj½–Uµƒ,­¤5–JĞABX
-{ÏrÏ0‹yLìŸ\ìÂj-ö*¹· ˜.ğ/ñšÛ×Øõîxx¿÷Êã‡;¯®“	'2‘Âbìë€_‚Ù1DxŒ[œ´ ’ÅÕwºïS7÷°¸6Œ‰!ÂbÜ‡Ú¯—İµ´»õ”
-?„ıµGÁìÏx<X 'Ğğl[<ÓüW:$$ø¯tH‹LÈ²ÊBæÀŞÀ …Ì?o¸XBÂ`BÂßààqÎ½Êìç1§Äh+
-ìÏÿÚƒ<Øš{ 8#7äŒ<ÚüÙ'î°¹ó…àZÑö¡›?´qÏêOòà_1²C£‘­D+€½‚û'bıø
-X‰Fƒ}%SGš…fN@Vh*š2p˜³ş`aÖŒA/Ä»cCCœ$ö.W¿yÙuõÁ¹f¹c™¬:/£+³:£aœ!! ÀU2iÎf4|Éµ >ŞYd¨”Ë»füÿã½aDn$¶júËT®½xñ?†3‰g£Äo&Öõ9Ò÷—¹R¿`{ı_ë‚=ˆğ8Ú×¹.qlËasKCK}ğPîN¸†T÷Ÿ}¼ÄwL:ûV&ı³šşÔÓøø+Bt|!º³šFÓ˜òU„èñ2Ztg#ı?fl<hÖ†¼ûÙöÈ{Í‡G4–“¢ûiÑOv¬ƒ¥ÿ—2'³:¦­é?'uyÔ}Aˆò¶¢¢™„hû"B4{*˜ –œ¿ŞüÌ¾áÅÕÇFÉ¹vŸïÙYøì,'|v–#>;öÍYvì«?1…b/¶_Úÿ>YA<Ê>Ã½Èñ˜*&¾ˆÎ{†ıñ/`ƒA(€ï†1AÈBƒXéz	²3ğ3ÜóLi™ø*ÀÁ?ø°ñš!x d`İ|4‰»B`%ú­v…)‚õk‹|øÂÃËkçÖ2)<¦àq¸¿0,"Ñ^‚òÏ‘ôğa¾àq½VQ&+K,Œ,Ú×˜?V{Q÷(«d­Ä£}Ïbvc¬³¼ŞkÛÑŞ_<İÜäK'DŠ˜™Kˆ4+;zØg0ìJÂÓ¡'Œ#ä‰+]‰Ø.'¿Àğˆx©!ˆÈ¶&¥ÄğÀØÿ¶¶J.eìË
-K®Ÿ—”¶
-şŸ:
-¨€ V`õ¿+X3ÑGÂ£™ñgG'Æ’RËá¼ã®äúp¿8ì9o.o%¯šw‘÷nø°áúá…Ã_ò|;şV¾7_Î¿ÎÌÿ·`¤`¬ÀE Á¸ØgØØZ¬·Å?Ã'áÓğyøzÜß…ûâ¡x~?ŠŸÀÏá€ÿi5ÊjŒeegµŞj³Õ.+W«+U–U“U¯ÕM«Vï	!$l‰qÄb!±’ÕGÂ…ğ$|‰ "œˆ#’	‘M”D+ÑM\%/‰o‰Ä ñ_¤5I‘ÓÈä2Òt İÈ 2†L SI5™G‘‡Èj²<L¶“Ìúqz=_›¢SJJOÈ`v.½3°QZf
-“ìJÛì+Wàñ)©iÉTL½¢¼¤ĞP–'56UãE¥ÆJÉ™Öıke	XlÂšˆí
-Ü)>2ÔÚzzÇı¦#Ç¤ù‰ú6M/¬R•JÖü(OLŒÌÂC}êÎµWWt”Ëª
-zªª
-q’)†EâTŸø D+W%q<X/K(ÖV¢`çì­A»¶XÖNá‚M©:õ\É,Pšrr³XüAƒ&®DV[kòfE.ó¬în5¸K@2#~ø%ùHÖ¯¼ŸeÉ€ÌƒQ‡rñò¼|c%õlÓ£%{œ#öî—îßµm…ø¦ÂˆÃ÷ÊûnHÑJx.¾Øê¾'K–¢Õ&HìtÊr”¼(íî:)!áÒ˜¡onòßPÌ$¬ß¨i9Ö,ßJhQƒ“°EjíÒ\š„)¼ïøû“>U^ZÊö¤uNÈÅc1ò6°Û	‹a	.pA‹w¢¥»Ñ*¶İ>÷	ûŸ|6ÇøĞòÉG†»¦.U×-½ˆ6\BëÎ£M,x>/Yş×á9‚³hò=ä|-`Û_BóUØYs³é•ÉxÏ„“ Ê6'Ål $îduzÒ>’Òä‚{µ©ùûğ\yŞŞÙÊÊÄ2Y|4M.8•Q­®ŒÂË£s2ÖP(›é*Õ¹E¥îÌÄånÆ6æÅéÎâ™™=ßS—ƒ‰â™UƒUüÃÌTÁûœyMÒ¼îÚâK¹,V¼­ã[*½6uOÂjù‚ØìR½ÿØÿ»ÿ¿ğH7Âü'ùÏ`›¢FõÅ<M>‘¯¿ZÀÂŸ(¬GcÒ”ïéDÖGÑH¼QĞ¼Î_şÚùyçôcˆƒ›'á³n×ÔWuÑTtÆÈNù‰3ëÒ®¨kpc\„i¿dööëWİ
-¾*—‰iŒö¤¼ƒäşÛ÷õŞNFêø¦†irùÉø³’çı§¾»çÒnwX¶¯Â§æÕÑĞtôt›Ï
-)KïP§ï$¦Æ{ãÂ×ş#ï$ËG9öHgÌ˜oÙô%jõPYkÆæêUùıÌÅÅfUd—÷SñÏ7@Lİ<éÛ(mòÙU´N²lØœ[d4H†ª|³äå½½ˆƒDË7GòSeäî´={2Ù`áAº>c…R°à ¿ä É>¯Úw2 0Ò‘ĞîQğ#æ™àêj9ïíUågl¢¶A£±œº«Üµ–!.§åe8QÈCœËûï4T5JÉWÙ­ĞÓ¦f6F~ßïúÅ—fpø],b.•öu| N*ºj¥Õ¡EvT <×æi—PƒS±ÅZíBËR#1Ño}·‹ÌgeWZœ½Cıº²{Z©-(ƒÖ’WhÒKõÕyuóáèö‹÷z¢a2`ñIè7~½oÒÄ5ŞK³d[â+È„7²ç$£†Åâä½ñ!C¤s’xå*d	ºÊ#ÃúMù}]+‘c/´İßê¦YÌ’Ã¸b¦ÃUô‡q2*16Y‘Œ?Ç<JwËéúÌ¡“}{n£&€Ş¡×æİ¥È„‚½­bö3›Å¢U!´è}•=!zïeO‹~ù-úèµ˜½«
-¶<Xki[É>­RĞ¤YŞ
-íPÔ&7“™CŸ xô9Ó,¾8Áâ‹§«i’)=-–çğırÔ†3”åPğØÃbQ1p1÷8O¥›Å.«ó3ì‡ÈÒhóH¬ÇVéuúÛ”¨¶`—ª››ê%eEÚä™èš^kÊ*ÊÇ+LÅ••Tmt}»—£k˜”4ª)¯9„¯ÃôZ>ÅJHBEeIYy‰Iv ¬<ó¤ÿÛsÀiO;_-»œÉ'Å{4aÏ°†sY˜`â¹àŞ«rÂ=]P`&Å×Uz¹Cë%Õªc•É©	Ê5œ©U+©èjE‰Á”k4Ik*o>iı¯8Ÿwü6ßc^	®©»Õ¸PUÏ×¤Ä¤GI¢‚K_È à¬È[­*ÀÙğ‰¤äl¶ç¯ÙFßCİ’³@{'˜Z¸ ëg†ÿÊ»0¤SOµFÍ
-Íœ¼ÿÚ‚ÍT«‡¤-òÇºŞ§²g½§Ş5õ>à‘ë)éÍ³j!ù½Ã¼N4<æ¼S¾4ßT—ß-¹})%ò˜ì©ûÑ…ˆC¡‹‘m_’b¾#v5f¦×É•‡¢‚(7·™«wv^h¬4×WIIqsqIYËy]z¹Œd*ÇÔc;õ:V^ÀûÉõâŠğHe‚\JBbv;ó´•¢7ÌˆŸy],íáÚ3Rƒ“-N`áĞé?#~©ë},{Ú{ÒBöİz¤WfÕ#‘›$îÈ-,`­@A}~—äN¯2ü„ì¹ÇÑy“Xj¢ñhûšàŠ'R²1»vÙ’RxÛûúXÆµ#_ÃÊ
-¬ÅÀz×ÙeÎÎşRx‡ù*·'¹kX¡¿­ÍÑm¥#-_"l×ù;ô:ÃM
-TX³ùhÅQÉÃû—ÊĞ2l³Z»“µË•W’ Ê°‘Ù;h²:2"6V^JËHTpöÜ{Ü!ÇuMñÆl™Hû9;ĞùJš,6IVMŞƒ{œˆ—‘‘D¦zl½/Ä§f03|°Iè³ÉhÚLô9ëEŠ×böÚl¦l™!#ÿõ [ÎÆ>®‚ÛÀ»õáæ»|Z¾u£¦e+MÚ+¯Â@7y7ûTîa–÷?ŠYûşÆµÆ#‡:ŠZôšæ±>÷4Ÿ|‚/š‰øHN¡/¿™V`İÿÈ®y9^§I'3Æi÷“h)Ì€/ÎÃ˜_îfc¢/d$ä;ä˜`ÖYXë—Yp4¨m
-Š¦ãgÊ+ëê:TÜ+Âë0ä¥â[ú=ÙPUSGîµä1æÖ‘ê.S$SrV’Ë÷ÏÓäŸ£˜0ÿÔMÉ{,ß…<ĞågÚSdo¶RÁ½f.)ö»r4Æ„ç¦HĞgHˆ¸H†Æÿ¶æyQƒ¾¦Cv­¿#}Åßu-]b½xåR—ŸÁºş`m~…¬¸¶µô¨Dxèaµ,ŠŠ…üœk-±PcK6A"*»}úêI®‚D³¯ˆ¢’$[Öô	“_wœ<Ú™X+#_õF¿„Ñ8ĞOK#!°#u‡íÙ[<ñXÕÃÆ'¯Ó˜.†«Ù¥ÊfÂaRÎ/Ô”T’T„º0™°Û¢·°ä#Y“H^Ä£–}Œ<×ò/©6å8È@:]­#Cb7ÆÊ„‹²[¬%¥„LŒLL5hõY²Vmcl µŸlÉneú-ßGô“õÌJ™DÀš—Ê»ËirYµ‚ßQßuá®äQ·Ûâ…¤ÃXÑ‰‚îâ.\øWòHNÚ6öíz³ğLhô¤C–s¨§·%İ¼Ã1v•…ÊŸÈ®‡Õ}g‡Ëáü|²Fy#ªĞ‘4(kIiBM™f yiîî½Q¡r©çV¾0ÛÌ¼n#W´ùÜ0‘â_—ö¢EÈBv$ÚˆœĞND£Ô,iæ9à&^‘—RJÊ@rá#Œ­|F†áNdC%+3õlÀJå;«O³&y(/Ãï$…r1ÒeS/²´'u¬&“ğ0òÿ åBÑƒ
-endstream
-endobj
-39 0 obj
-<</Filter/FlateDecode/Length 419>>stream
-xÚU’Ïn›@Æï<Åõ ;Ä˜•VHÄ6’m£:/@`í Õ€Öøà·ï|ŸT=0úí0¾Ùt³ßîÇa1ékœºCXÌqû.Ó5vÁ¼‡Ó0+¦ºåq¢íÎíl’T³·ËÎûñ8ïÓßúó²Ä›ùÖÈ÷ìÉ¤¿bâ0àĞãá:ÏÂ9Œ‹ÉªÊôá¨E~´óÏöLŠœ¾·ÛŒğl]§>\æ¶±OÁxÉ*_KeÂØÿÿ+Éó{Æû±ûhcâWÛÊg™ZÅ†Ø(®7@µ‰/µ”dÖ-ñøŒ€šŞ½° Š ×Ø1 $Z cl¬‰%ğ…iP‹l±%²îhY"·kE—…h€ÆNàmPÌåŠ¶@š£Ş†¸"b6WP†wÔ»a õ65Ğ1 \M/”¹z€‹²Ş©^»«1›ÛÁ›kÊQ›è[<.½ø|‚û“ğµÄr•-T&¨ *G¨CpY¢ÍW ”xÎ¯)s–Ú®Ìy³›GË{lVók§ºkŒºmÜ_nöiÃ×ŠÏÓŒıÁ—ü×Ì
-endstream
-endobj
-40 0 obj
-<</BleedBox[ 0 0 504 661.5]/Contents 198 0 R /CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</Font<</F0 32 0 R /F2 36 0 R >>/ProcSet[/PDF/Text/ImageC]/XObject<<>>>>/Type/Page>>
-endobj
-41 0 obj
-[ 42 0 R  43 0 R  44 0 R  45 0 R  46 0 R  47 0 R  48 0 R  49 0 R  50 0 R  51 0 R  52 0 R  53 0 R  54 0 R  55 0 R  56 0 R  57 0 R  58 0 R  59 0 R  60 0 R  61 0 R  62 0 R  63 0 R  64 0 R  65 0 R  66 0 R  67 0 R  68 0 R  69 0 R  70 0 R  71 0 R  72 0 R  73 0 R  74 0 R  75 0 R  76 0 R  77 0 R  78 0 R  79 0 R  80 0 R  81 0 R ]
-endobj
-42 0 obj
-<</A<</D(row_major_versus_column_major_format)/S/GoTo>>/Border[ 0 0 0]/Contents(Row-Major Versus Column-Major Format                                                              54)/M(D:20220517135306+00'00')/Rect[ 95.040001 595.95001 414 606.45001]/Subtype/Link/Type/Annot>>
-endobj
-43 0 obj
-<</A<</D(text_versus_binary_format)/S/GoTo>>/Border[ 0 0 0]/Contents(Text Versus Binary Format                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 583.34998 414 593.84998]/Subtype/Link/Type/Annot>>
-endobj
-44 0 obj
-<</A<</D(data_models)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Models                                                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 570.75 414 581.25]/Subtype/Link/Type/Annot>>
-endobj
-45 0 obj
-<</A<</D(relational_model)/S/GoTo>>/Border[ 0 0 0]/Contents(Relational Model                                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 558.15002 414 568.65002]/Subtype/Link/Type/Annot>>
-endobj
-46 0 obj
-<</A<</D(nosql)/S/GoTo>>/Border[ 0 0 0]/Contents(NoSQL                                                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 545.54999 414 556.04999]/Subtype/Link/Type/Annot>>
-endobj
-47 0 obj
-<</A<</D(structured_versus_unstructured_data)/S/GoTo>>/Border[ 0 0 0]/Contents(Structured Versus Unstructured Data                                                                       66)/M(D:20220517135306+00'00')/Rect[ 95.040001 532.95001 414 543.45001]/Subtype/Link/Type/Annot>>
-endobj
-48 0 obj
-<</A<</D(data_storage_engines_and_processing)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Storage Engines and Processing                                                                           67)/M(D:20220517135306+00'00')/Rect[ 86.400002 520.34998 414 530.84998]/Subtype/Link/Type/Annot>>
-endobj
-49 0 obj
-<</A<</D(transactional_and_analytical_processing)/S/GoTo>>/Border[ 0 0 0]/Contents(Transactional and Analytical Processing                                                                  67)/M(D:20220517135306+00'00')/Rect[ 95.040001 507.75 414 518.25]/Subtype/Link/Type/Annot>>
-endobj
-50 0 obj
-<</A<</D(etl_extractcomma_transformcomma_and_loa)/S/GoTo>>/Border[ 0 0 0]/Contents(ETL: Extract, Transform, and Load                                                                           70)/M(D:20220517135306+00'00')/Rect[ 95.040001 495.14999 414 505.64999]/Subtype/Link/Type/Annot>>
-endobj
-51 0 obj
-<</A<</D(modes_of_dataflow)/S/GoTo>>/Border[ 0 0 0]/Contents(Modes of Dataflow                                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 482.54999 414 493.04999]/Subtype/Link/Type/Annot>>
-endobj
-52 0 obj
-<</A<</D(data_passing_through_databases)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Passing Through Databases                                                                               72)/M(D:20220517135306+00'00')/Rect[ 95.040001 469.95001 414 480.45001]/Subtype/Link/Type/Annot>>
-endobj
-53 0 obj
-<</A<</D(data_passing_through_services)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Passing Through Services                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 457.35001 414 467.85001]/Subtype/Link/Type/Annot>>
-endobj
-54 0 obj
-<</A<</D(data_passing_through_real_time_transpor)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Passing Through Real-Time Transport                                                           74)/M(D:20220517135306+00'00')/Rect[ 95.040001 444.75 414 455.25]/Subtype/Link/Type/Annot>>
-endobj
-55 0 obj
-<</A<</D(batch_processing_versus_stream_processi)/S/GoTo>>/Border[ 0 0 0]/Contents(Batch Processing Versus Stream Processing                                                                78)/M(D:20220517135306+00'00')/Rect[ 86.400002 432.14999 414 442.64999]/Subtype/Link/Type/Annot>>
-endobj
-56 0 obj
-<</A<</D(summary-id000004)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 419.54999 414 430.04999]/Subtype/Link/Type/Annot>>
-endobj
-57 0 obj
-<</A<</D(training_data)/S/GoTo>>/Border[ 0 0 0]/Contents(Training Data. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 394.5 432 406.5]/Subtype/Link/Type/Annot>>
-endobj
-58 0 obj
-<</A<</D(sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Sampling                                                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 381.75 414 392.25]/Subtype/Link/Type/Annot>>
-endobj
-59 0 obj
-<</A<</D(nonprobability_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Nonprobability Sampling                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 369.14996 414 379.64996]/Subtype/Link/Type/Annot>>
-endobj
-60 0 obj
-<</A<</D(simple_random_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Simple Random Sampling                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 356.54999 414 367.04999]/Subtype/Link/Type/Annot>>
-endobj
-61 0 obj
-<</A<</D(stratified_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Stratified Sampling                                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 343.94995 414 354.44995]/Subtype/Link/Type/Annot>>
-endobj
-62 0 obj
-<</A<</D(weighted_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Weighted Sampling                                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 331.34998 414 341.84998]/Subtype/Link/Type/Annot>>
-endobj
-63 0 obj
-<</A<</D(reservoir_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Reservoir Sampling                                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 318.74997 414 329.24997]/Subtype/Link/Type/Annot>>
-endobj
-64 0 obj
-<</A<</D(importance_sampling)/S/GoTo>>/Border[ 0 0 0]/Contents(Importance Sampling                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 306.14996 414 316.64996]/Subtype/Link/Type/Annot>>
-endobj
-65 0 obj
-<</A<</D(labeling)/S/GoTo>>/Border[ 0 0 0]/Contents(Labeling                                                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 293.54996 414 304.04996]/Subtype/Link/Type/Annot>>
-endobj
-66 0 obj
-<</A<</D(hand_labels)/S/GoTo>>/Border[ 0 0 0]/Contents(Hand Labels                                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 280.94995 414 291.44995]/Subtype/Link/Type/Annot>>
-endobj
-67 0 obj
-<</A<</D(natural_labels)/S/GoTo>>/Border[ 0 0 0]/Contents(Natural Labels                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 268.34995 414 278.84995]/Subtype/Link/Type/Annot>>
-endobj
-68 0 obj
-<</A<</D(handling_the_lack_of_labels)/S/GoTo>>/Border[ 0 0 0]/Contents(Handling the Lack of Labels                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 255.74994 414 266.24994]/Subtype/Link/Type/Annot>>
-endobj
-69 0 obj
-<</A<</D(class_imbalance)/S/GoTo>>/Border[ 0 0 0]/Contents(Class Imbalance                                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 243.14993 414 253.64993]/Subtype/Link/Type/Annot>>
-endobj
-70 0 obj
-<</A<</D(challenges_of_class_imbalance)/S/GoTo>>/Border[ 0 0 0]/Contents(Challenges of Class Imbalance                                                                                 ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 230.54993 414 241.04993]/Subtype/Link/Type/Annot>>
-endobj
-71 0 obj
-<</A<</D(handling_class_imbalance)/S/GoTo>>/Border[ 0 0 0]/Contents(Handling Class Imbalance                                                                                        ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 217.94992 414 228.44992]/Subtype/Link/Type/Annot>>
-endobj
-72 0 obj
-<</A<</D(data_augmentation)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Augmentation                                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 205.34991 414 215.84991]/Subtype/Link/Type/Annot>>
-endobj
-73 0 obj
-<</A<</D(simple_label_preserving_transformations)/S/GoTo>>/Border[ 0 0 0]/Contents(Simple Label-Preserving Transformations                                                             114)/M(D:20220517135306+00'00')/Rect[ 95.040001 192.74991 414 203.24991]/Subtype/Link/Type/Annot>>
-endobj
-74 0 obj
-<</A<</D(perturbation)/S/GoTo>>/Border[ 0 0 0]/Contents(Perturbation                                                                                                                ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 180.1499 414 190.6499]/Subtype/Link/Type/Annot>>
-endobj
-75 0 obj
-<</A<</D(data_synthesis)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Synthesis                                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 167.549896 414 178.0499]/Subtype/Link/Type/Annot>>
-endobj
-76 0 obj
-<</A<</D(summary-id000005)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 154.94989 414 165.44989]/Subtype/Link/Type/Annot>>
-endobj
-77 0 obj
-<</A<</D(feature_engineering)/S/GoTo>>/Border[ 0 0 0]/Contents(Feature Engineering. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 129.899872 432 141.899872]/Subtype/Link/Type/Annot>>
-endobj
-78 0 obj
-<</A<</D(learned_features_versus_engineered_feat)/S/GoTo>>/Border[ 0 0 0]/Contents(Learned Features Versus Engineered Features                                                          120)/M(D:20220517135306+00'00')/Rect[ 86.400002 117.149902 414.00003 127.649902]/Subtype/Link/Type/Annot>>
-endobj
-79 0 obj
-<</A<</D(common_feature_engineering_operations)/S/GoTo>>/Border[ 0 0 0]/Contents(Common Feature Engineering Operations                                                                123)/M(D:20220517135306+00'00')/Rect[ 86.400002 104.549896 413.99997 115.049896]/Subtype/Link/Type/Annot>>
-endobj
-80 0 obj
-<</A<</D(handling_missing_values)/S/GoTo>>/Border[ 0 0 0]/Contents(Handling Missing Values                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 91.949951 414.00003 102.449921]/Subtype/Link/Type/Annot>>
-endobj
-81 0 obj
-<</A<</D(scaling)/S/GoTo>>/Border[ 0 0 0]/Contents(Scaling                                                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 79.349907 414 89.849907]/Subtype/Link/Type/Annot>>
-endobj
-82 0 obj
-<</Filter/FlateDecode/Length 1305>>stream
-xÚÍ™IsÛ6€ïšéxG¨±¸ ì-vì6§µ-59´=@2,1á’TÏôÇ÷Ü­ÅÎX¦
-en?¼ığ(Ø¸Mô?ß§–‹¾àæ:|›[÷ ®„Pî@|óÈÜ9ª<K8Œã¥ò{Íá‡!Á'ş†ûl‹yp÷àAíoáíS¸AHõ5ÏÕ|vuâÓèd?3 6‚ÏnÛÉ0Ç²Âò…ƒWbø‹\§w“wc œHüÈÇ4ƒ÷c8QY¾Îá4Öq‚·Œz·œ›½4‹ËS<kŒGß&;†`†b°l3Ë‡ÙbÎIõ­èÁ„‰ÌÆ0a¹?0Ò~ZÆ\âñ
-w‚òt©×Å}S1H@Ù2Ÿ¤7*Êá(ix¢‚í²¢iÉ{­¢Š8Lu¨eŒ/¨­ +ĞßÈ#éôê7¡O|§V|i¨ntZdëE±ÎÔMÏRÿ£G“$o¯¶&r08jsâûO±Êi‘fr©à,Y†‰ÊA&7p™¥•ça²<¬È(Äç]ósÅ×Éd’ËEe~ç5îÜáI¦ozVv6»øÎ¾’¼‚ì£Ê+Cu‘Ê›‹-ŠÛ=¥õåÓøbémk6·Qz7¬íû‚p¶E^€ã¡…]"5#²ÔÚl•¥ëåª…ŸË\å‡'ôXKØwÎ6Ô=‚8UUBù.Tş"r¤%üAaß‰y­d4Au	c…¦:ªLõsš='óé¹cæîx´EZº“Šn±ê:g7àaT2> ëÖ‚}Çm™¦ë8n«£f‰À!¼Ncg³Q[«ÙXRtü³„Q»©Û–eÅ†w°^½¦mƒ¾.äğBL\k³ú'¯v|ƒº–k¾ÂhmX¦Ì›e2L´ŞÈBZ0øö÷Í¾V¤p	ZI¨[ªwà.7Ê¦J5º•±1¸ÏÑaÓÓ÷œâ;.ÛaÇ«z%)©³t.ça÷0ØL“D8;İ%¬A\£×`–Æ—ÆƒšjŠ÷‘x¤.MoC¬›a
-Ú¥i‹º!Ëeà—«’ô8˜Ú±¸M„·óZåMvKÃìXŒLá?’şŞVd˜Íd²PC£jÛ´QãZ¼ã¼suÌ„ñ¨É”ö7y¿bLr‰©b5v~œÜH;œö¶°éWËØ&aíTƒÉH@wq6¢4Ê/V
-9Ÿt}ş¢¼&ur¸Ûz¼–î4ÂjŞÆsç¼G¶	µÙ^[<]É(RÉ²lj^Øt¡¡«ºûzHÆÚ<¤ó¶vÛz‚×XùS²^Æ*©N5«7ºHÀ¥Î^=w«ã“Ë¬“…LKÓk³åxTMäyN¤+m‡´îd6|û*‡a·‚qf>¸øúmo8wÄšÎªÍ}¥í•ÊÃ|hLOSúû#Ïÿ£ÓkèíTìkÁ\_·J6õÒ‚QÓ‚•óŒ‰÷Ô6Œ‚Ë]-ê”mØ¹’zõ¯ZwSÚÿĞm˜‰6ÂÎşË«Û/ŒAe£d–`U[®±«&Acø~?5M=­íw>/íQ‚şÜ{A°Q¦qŒ¼ñè®¸áÏ*;T©LDsª0SúkÆÄ¶Äò.lL"£µÊ_6Âé9=ém Nò¨İui›£ó[Ç½ê¿éò)µlÃÜ¼ğÊ×¶xn Üò«w]áW­.•İ¿õÎLÎ13é$M
-•yùä‘y2nÿ£¸}
-endstream
-endobj
-83 0 obj
-<</BleedBox[ 0 0 504 661.5]/Contents 202 0 R /CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</Font<</F0 32 0 R /F2 36 0 R /F7 126 0 R >>/ProcSet[/PDF/Text/ImageC]/XObject<<>>>>/Type/Page>>
-endobj
-84 0 obj
-[ 85 0 R  86 0 R  87 0 R  88 0 R  89 0 R  90 0 R  91 0 R  92 0 R  93 0 R  94 0 R  95 0 R  96 0 R  97 0 R  98 0 R  99 0 R  100 0 R  101 0 R  102 0 R  103 0 R  104 0 R  105 0 R  106 0 R  107 0 R  108 0 R  109 0 R  110 0 R  111 0 R  112 0 R  113 0 R  114 0 R  115 0 R  116 0 R  117 0 R  118 0 R  119 0 R  120 0 R  121 0 R  122 0 R  123 0 R  124 0 R ]
-endobj
-85 0 obj
-<</A<</D(discretization)/S/GoTo>>/Border[ 0 0 0]/Contents(Discretization                                                                                                              ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 595.95001 414 606.45001]/Subtype/Link/Type/Annot>>
-endobj
-86 0 obj
-<</A<</D(encoding_categorical_features)/S/GoTo>>/Border[ 0 0 0]/Contents(Encoding Categorical Features                                                                                 ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 583.34998 414 593.84998]/Subtype/Link/Type/Annot>>
-endobj
-87 0 obj
-<</A<</D(feature_crossing)/S/GoTo>>/Border[ 0 0 0]/Contents(Feature Crossing                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 570.75 414 581.25]/Subtype/Link/Type/Annot>>
-endobj
-88 0 obj
-<</A<</D(discrete_and_continuous_positional_embe)/S/GoTo>>/Border[ 0 0 0]/Contents(Discrete and Continuous Positional Embeddings                                                 133)/M(D:20220517135306+00'00')/Rect[ 95.040001 558.15002 413.99997 568.65002]/Subtype/Link/Type/Annot>>
-endobj
-89 0 obj
-<</A<</D(data_leakage)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Leakage                                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 545.54999 414 556.04999]/Subtype/Link/Type/Annot>>
-endobj
-90 0 obj
-<</A<</D(common_causes_for_data_leakage)/S/GoTo>>/Border[ 0 0 0]/Contents(Common Causes for Data Leakage                                                                         137)/M(D:20220517135306+00'00')/Rect[ 95.040001 532.95001 414 543.45001]/Subtype/Link/Type/Annot>>
-endobj
-91 0 obj
-<</A<</D(detecting_data_leakage)/S/GoTo>>/Border[ 0 0 0]/Contents(Detecting Data Leakage                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 520.34998 414 530.84998]/Subtype/Link/Type/Annot>>
-endobj
-92 0 obj
-<</A<</D(engineering_good_features)/S/GoTo>>/Border[ 0 0 0]/Contents(Engineering Good Features                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 507.75 414 518.25]/Subtype/Link/Type/Annot>>
-endobj
-93 0 obj
-<</A<</D(feature_importance)/S/GoTo>>/Border[ 0 0 0]/Contents(Feature Importance                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 495.14999 414.00003 505.64999]/Subtype/Link/Type/Annot>>
-endobj
-94 0 obj
-<</A<</D(feature_generalization)/S/GoTo>>/Border[ 0 0 0]/Contents(Feature Generalization                                                                                              ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 482.54999 414 493.04999]/Subtype/Link/Type/Annot>>
-endobj
-95 0 obj
-<</A<</D(summary-id000006)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 469.95001 414 480.45001]/Subtype/Link/Type/Annot>>
-endobj
-96 0 obj
-<</A<</D(model_development_and_offline_evaluatio)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Development and Offline Evaluation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  149)/M(D:20220517135306+00'00')/Rect[ 86.400002 444.90002 432 456.90002]/Subtype/Link/Type/Annot>>
-endobj
-97 0 obj
-<</A<</D(model_development_and_training)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Development and Training                                                                              150)/M(D:20220517135306+00'00')/Rect[ 86.400002 432.15002 414.00003 442.65002]/Subtype/Link/Type/Annot>>
-endobj
-98 0 obj
-<</A<</D(evaluating_ml_models)/S/GoTo>>/Border[ 0 0 0]/Contents(Evaluating ML Models                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 419.54999 414.00003 430.04999]/Subtype/Link/Type/Annot>>
-endobj
-99 0 obj
-<</A<</D(ensembles)/S/GoTo>>/Border[ 0 0 0]/Contents(Ensembles                                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 406.95001 414 417.45001]/Subtype/Link/Type/Annot>>
-endobj
-100 0 obj
-<</A<</D(experiment_tracking_and_versioning)/S/GoTo>>/Border[ 0 0 0]/Contents(Experiment Tracking and Versioning                                                                     162)/M(D:20220517135306+00'00')/Rect[ 95.040001 394.34998 414 404.84998]/Subtype/Link/Type/Annot>>
-endobj
-101 0 obj
-<</A<</D(distributed_training)/S/GoTo>>/Border[ 0 0 0]/Contents(Distributed Training                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 381.75 414 392.25]/Subtype/Link/Type/Annot>>
-endobj
-102 0 obj
-<</A<</D(automl)/S/GoTo>>/Border[ 0 0 0]/Contents(AutoML                                                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 369.14996 414.00003 379.64996]/Subtype/Link/Type/Annot>>
-endobj
-103 0 obj
-<</A<</D(model_offline_evaluation)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Offline Evaluation                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 356.54999 414 367.04999]/Subtype/Link/Type/Annot>>
-endobj
-104 0 obj
-<</A<</D(baselines)/S/GoTo>>/Border[ 0 0 0]/Contents(Baselines                                                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 343.94995 414.00003 354.44995]/Subtype/Link/Type/Annot>>
-endobj
-105 0 obj
-<</A<</D(evaluation_methods)/S/GoTo>>/Border[ 0 0 0]/Contents(Evaluation Methods                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 331.34998 414 341.84998]/Subtype/Link/Type/Annot>>
-endobj
-106 0 obj
-<</A<</D(summary-id000007)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 318.74997 414 329.24997]/Subtype/Link/Type/Annot>>
-endobj
-107 0 obj
-<</A<</D(model_deployment_and_prediction_service)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Deployment and Prediction Service. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  191)/M(D:20220517135306+00'00')/Rect[ 86.400002 293.69995 432 305.69995]/Subtype/Link/Type/Annot>>
-endobj
-108 0 obj
-<</A<</D(machine_learning_deployment_myths)/S/GoTo>>/Border[ 0 0 0]/Contents(Machine Learning Deployment Myths                                                                       194)/M(D:20220517135306+00'00')/Rect[ 86.400002 280.94998 414 291.44998]/Subtype/Link/Type/Annot>>
-endobj
-109 0 obj
-<</A<</D(myth_one_you_only_deploy_one_or_two_ml)/S/GoTo>>/Border[ 0 0 0]/Contents(Myth 1: You Only Deploy One or Two ML Models at a Time                             194)/M(D:20220517135306+00'00')/Rect[ 95.040001 268.34998 414 278.84998]/Subtype/Link/Type/Annot>>
-endobj
-110 0 obj
-<</A<</D(myth_two_if_we_donapostrophet_do_anythi)/S/GoTo>>/Border[ 0 0 0]/Contents(Myth 2: If We Dont Do Anything, Model Performance Remains the Same     195)/M(D:20220517135306+00'00')/Rect[ 95.040001 255.74997 414 266.24997]/Subtype/Link/Type/Annot>>
-endobj
-111 0 obj
-<</A<</D(myth_three_you_wonapostrophet_need_to_u)/S/GoTo>>/Border[ 0 0 0]/Contents(Myth 3: You Wont Need to Update Your Models as Much                                  196)/M(D:20220517135306+00'00')/Rect[ 95.040001 243.14996 414 253.64996]/Subtype/Link/Type/Annot>>
-endobj
-112 0 obj
-<</A<</D(myth_four_most_ml_engineers_donapostrop)/S/GoTo>>/Border[ 0 0 0]/Contents(Myth 4: Most ML Engineers Dont Need to Worry About Scale                         196)/M(D:20220517135306+00'00')/Rect[ 95.040001 230.54996 414 241.04996]/Subtype/Link/Type/Annot>>
-endobj
-113 0 obj
-<</A<</D(batch_prediction_versus_online_predicti)/S/GoTo>>/Border[ 0 0 0]/Contents(Batch Prediction Versus Online Prediction                                                               197)/M(D:20220517135306+00'00')/Rect[ 86.400002 217.94995 414 228.44995]/Subtype/Link/Type/Annot>>
-endobj
-114 0 obj
-<</A<</D(from_batch_prediction_to_online_predict)/S/GoTo>>/Border[ 0 0 0]/Contents(From Batch Prediction to Online Prediction                                                         201)/M(D:20220517135306+00'00')/Rect[ 95.040001 205.34995 414 215.84995]/Subtype/Link/Type/Annot>>
-endobj
-115 0 obj
-<</A<</D(unifying_batch_pipeline_and_streaming_p)/S/GoTo>>/Border[ 0 0 0]/Contents(Unifying Batch Pipeline and Streaming Pipeline                                                  203)/M(D:20220517135306+00'00')/Rect[ 95.040001 192.74994 414 203.24994]/Subtype/Link/Type/Annot>>
-endobj
-116 0 obj
-<</A<</D(model_compression)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Compression                                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 180.14993 414 190.64993]/Subtype/Link/Type/Annot>>
-endobj
-117 0 obj
-<</A<</D(low_rank_factorization)/S/GoTo>>/Border[ 0 0 0]/Contents(Low-Rank Factorization                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 167.549927 414 178.04993]/Subtype/Link/Type/Annot>>
-endobj
-118 0 obj
-<</A<</D(knowledge_distillation)/S/GoTo>>/Border[ 0 0 0]/Contents(Knowledge Distillation                                                                                              ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 154.949921 414 165.449921]/Subtype/Link/Type/Annot>>
-endobj
-119 0 obj
-<</A<</D(pruning)/S/GoTo>>/Border[ 0 0 0]/Contents(Pruning                                                                                                                        ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 142.349915 414 152.849915]/Subtype/Link/Type/Annot>>
-endobj
-120 0 obj
-<</A<</D(quantization)/S/GoTo>>/Border[ 0 0 0]/Contents(Quantization                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 129.749908 414 140.249908]/Subtype/Link/Type/Annot>>
-endobj
-121 0 obj
-<</A<</D(ml_on_the_cloud_and_on_the_edge)/S/GoTo>>/Border[ 0 0 0]/Contents(ML on the Cloud and on the Edge                                                                              212)/M(D:20220517135306+00'00')/Rect[ 86.400002 117.149902 413.99997 127.649902]/Subtype/Link/Type/Annot>>
-endobj
-122 0 obj
-<</A<</D(compiling_and_optimizing_models_for_edg)/S/GoTo>>/Border[ 0 0 0]/Contents(Compiling and Optimizing Models for Edge Devices                                          214)/M(D:20220517135306+00'00')/Rect[ 95.040001 104.549896 414 115.049896]/Subtype/Link/Type/Annot>>
-endobj
-123 0 obj
-<</A<</D(ml_in_browsers)/S/GoTo>>/Border[ 0 0 0]/Contents(ML in Browsers                                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 91.949951 414.00003 102.449921]/Subtype/Link/Type/Annot>>
-endobj
-124 0 obj
-<</A<</D(summary-id000008)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 79.349907 414 89.849907]/Subtype/Link/Type/Annot>>
-endobj
-125 0 obj
-<</Filter/FlateDecode/Length 1491>>stream
-xÚÍ™YsÛ6Çßõ)öêÔğÌ[bÉ™¤qmÇj3¶´É¬IÂáa×™~øî‚¤ë¨›‘éPOü¸×Áà`ãçˆ¾<[.L3ø‚G
-ğlß’¾Y»X!÷%¤àoî™+íkRøxª¹o±ûùÈqÄ8Ø;°-áÂı£–ÏÂË/áb "§s®C|v{àfğv¯NpÁ'³åËiÙÒ‡Àò‰g2ø’rZ¨*ù‡¬Jt½nÃÁ‘k3.‚!ü	“pd[6ny…åÁ$FÈq>Õq’Ïá¸¥Ts]$Ó(…³¯ÚÃu¡Êgä¶€ö*ÙÆøp\è²$Öè ¥Xç364Œ­‹DyÇ:oİ|×º.á|R0]&ä~´ê8»R1¼üÖ’²s'›ÃİU›ZkEğQE7Ñ\Aÿbr1İs“òXgæBqu‰‘5Ó<<YNdò·Ú8­(®ú5E¿Ï¸cïöç8Ÿ'¹RÁ½Ó:î#)Wù|4šÃ×éìÏÑ÷™ù}«‹*Ê§ª¯2'‘S<­Š¼S¹*¢´¿²L	£-vCÜÔË:Ë¢bG"dğRÒzëµ°ãÉ`)ˆ6*0G^î„–4äFç,âbMIo¤Zâ‰ŒyÖ&Ñ#/vÜÁËinqÃÎ6;Õ±Ja¤îTªo3•W¦Şšg½:ñ›gÂÀò3‰ÙÙÂ¶1sÚKºa„G:Ï´‹Ãø.JëˆBÀ‚C|L¡qÙ§5ßj³€şv-îùçÓ(ÆéÉØ£wl‚Ó¼èd8$+¢$?¸øQlÊq×^Mr'x,tcD´™±V§qs8ıKô²YY€¶ÍŒØ ÍK•]¥ª|¡äqP¢]oWÃ0şû«ùÒ½“!×NoÈ äì_‡úL%å¡ÜM¶ó<Æ½}LU$Wu¥âÓ3„Û.8ApÁ.¸7C@«Ö•Æ€{±¢((ú|±VÂï1êJ*ŸÍf)– ØLg‹‚èûsúmT*",_Ì¦Fıpg²l³\caU]ë¸ì‰R¢ç¾îùk~WêûÔ[Ú¶!÷Ÿ ŞÜˆwóšóŸ(à$Şàmí\¸SğÛT?,ü¼Pq25^½TÅ]2U‡QáF‡]u8äÛt˜ŞÌwÂN†Ñ™]òrŸEÓkJ[œ¦ . ‡S²OÍŒî¡º.ç3š„Î–	ÓZei†ş~CRœĞèÎòô¡EÄß
-p…í‚/Ù½~¬ÏQ×RP…wCÚÏGNĞrö(î’L¼†÷3øÜ(Œh>F½^âàĞ#oğ t9÷Gt³™*«ç‚™™;|RŠP	Õµ‚Ë¨¥E*n£Æ†î®²lyäª¥¬M¦Ÿ‘Çe
-…¯ÒğÄÙKÜ-†,ï/VPÑ–¥‰Éêéõ<G6Yá–¶`ğÈ„ÎëÎgeEìf€å6s®¡·ïWüTƒP6¥Í®t]Áå4JÕ><zÇ%ßf´ŠÑ˜ßy%wK]R8Rò¬œ=Lsú{“ã¤Ğl§CËŠÊ+gÂæ»bãÇ‘,OfdSŸ=PYåJnäšòwY*ÊèŠÅáo² ÑÖE¡­}É±n§è…*ËŞÖ$hˆ Ş^G~Ô÷GŸÈv‹òZîÀ šVºèk¾ Ò[áÜpñO¹¾OU<Ç‡Ms’¦=®#ø’íì“Ï‹:ïsyt‹‹1æ—€»ã¢º•Ò[oæDá4vX„©Œ §ºMê¶Æñ¡—‘Š‹½i²Èá$íæg·U’%_Í¼|EôiaÕ`5XåÿB	\$q¶y“–f‚…}’Şú¾$™êuNfcéb›W ¿§Î\¹ìÌ/Öÿjò8·lƒ½øÇ©Xôæáú¿Mk	É9Şgym‹=‰®PãõŒş‡¨°Å.I×ìóşé~Ü5CÌĞøùp35
-endstream
-endobj
-126 0 obj
-<</BaseFont/GXYXXS+MyriadPro-SemiboldCond/Encoding<</Differences[ 128/f_f_l 130/f_f 131/f_i 132/f_l 135/f_f_i]/Type/Encoding>>/FirstChar 45/FontDescriptor 33 0 R /LastChar 135/Subtype/Type1/ToUnicode 127 0 R /Type/Font/Widths[ 268 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 385 470 0 0 0 0 226 0 0 364 620 0 465 0 0 0 379 0 0 0 668 0 0 0 0 0 0 0 0 0 396 0 313 425 394 0 425 0 205 0 386 210 0 434 410 425 0 273 308 286 428 0 594 0 0 0 0 0 0 0 0 700 0 495 457 457 0 0 700]>>
-endobj
-127 0 obj
-<</Filter/FlateDecode/Length 362>>stream
-xÚU’Moƒ0†ïü
-7í e4i¥ˆC¡•zØ‡Öİ¦(˜i„(ĞCÿıl‡1	ëÍãÄy-'.åÑvÄ¯~¨O8AÛÙÆã8\}pÆKga•BÓÕÓ¼’X÷•ƒ(¦Ó§Û8a´í ÆÄo”'ƒ»ƒ~Hî!~ñúÎ^Ğòtuî{´$y¶Tä©rÏUó™?ö~s©¬Wó­Cƒ£«jô•½ ˜$ÉÍFç€¶ùŸŠÈ²œ8·õWå#Ù™Ğ—G&-YRŒL¶eI‘äAääú‘%E’Z¤&©V,)’ª„JÅ´PÍt#·)5ÿ#ıÑ2=»Ó¿^ƒw“‘,Ë?Øx¡Å'á‚pp!¸d¬h‹ZV²[e×’ÜQ²ÉàBğ>7:	x/XÚ'DIR2dIQÊj)«¥ì†ø&8--ÍmÅI¡+?šeÚõÕ{zò²dŞ<éÎâòøÜàx²üG?L¹i
-endstream
-endobj
-128 0 obj
-<</BleedBox[ 0 0 504 661.5]/Contents 206 0 R /CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</Font<</F0 32 0 R /F2 36 0 R >>/ProcSet[/PDF/Text/ImageC]/XObject<<>>>>/Type/Page>>
-endobj
-129 0 obj
-[ 130 0 R  131 0 R  132 0 R  133 0 R  134 0 R  135 0 R  136 0 R  137 0 R  138 0 R  139 0 R  140 0 R  141 0 R  142 0 R  143 0 R  144 0 R  145 0 R  146 0 R  147 0 R  148 0 R  149 0 R  150 0 R  151 0 R  152 0 R  153 0 R  154 0 R  155 0 R  156 0 R  157 0 R  158 0 R  159 0 R  160 0 R  161 0 R  162 0 R  163 0 R  164 0 R  165 0 R  166 0 R  167 0 R  168 0 R  169 0 R ]
-endobj
-130 0 obj
-<</A<</D(data_distribution_shifts_and_monitoring)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Distribution Shifts and Monitoring. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  225)/M(D:20220517135306+00'00')/Rect[ 86.400002 594.29999 432 606.29999]/Subtype/Link/Type/Annot>>
-endobj
-131 0 obj
-<</A<</D(causes_of_ml_system_failures)/S/GoTo>>/Border[ 0 0 0]/Contents(Causes of ML System Failures                                                                                      ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 581.54999 413.99997 592.04999]/Subtype/Link/Type/Annot>>
-endobj
-132 0 obj
-<</A<</D(software_system_failures)/S/GoTo>>/Border[ 0 0 0]/Contents(Software System Failures                                                                                           ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 568.95001 414 579.45001]/Subtype/Link/Type/Annot>>
-endobj
-133 0 obj
-<</A<</D(ml_specific_failures)/S/GoTo>>/Border[ 0 0 0]/Contents(ML-Specific Failures                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 556.34998 414.00003 566.84998]/Subtype/Link/Type/Annot>>
-endobj
-134 0 obj
-<</A<</D(data_distribution_shifts)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Distribution Shifts                                                                                                ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 543.75 414 554.25]/Subtype/Link/Type/Annot>>
-endobj
-135 0 obj
-<</A<</D(types_of_data_distribution_shifts)/S/GoTo>>/Border[ 0 0 0]/Contents(Types of Data Distribution Shifts                                                                             237)/M(D:20220517135306+00'00')/Rect[ 95.040001 531.15002 414 541.65002]/Subtype/Link/Type/Annot>>
-endobj
-136 0 obj
-<</A<</D(general_data_distribution_shifts)/S/GoTo>>/Border[ 0 0 0]/Contents(General Data Distribution Shifts                                                                             241)/M(D:20220517135306+00'00')/Rect[ 95.040001 518.54999 414 529.04999]/Subtype/Link/Type/Annot>>
-endobj
-137 0 obj
-<</A<</D(detecting_data_distribution_shifts)/S/GoTo>>/Border[ 0 0 0]/Contents(Detecting Data Distribution Shifts                                                                          242)/M(D:20220517135306+00'00')/Rect[ 95.040001 505.95001 414 516.45001]/Subtype/Link/Type/Annot>>
-endobj
-138 0 obj
-<</A<</D(addressing_data_distribution_shifts)/S/GoTo>>/Border[ 0 0 0]/Contents(Addressing Data Distribution Shifts                                                                       248)/M(D:20220517135306+00'00')/Rect[ 95.040001 493.35001 413.99997 503.85001]/Subtype/Link/Type/Annot>>
-endobj
-139 0 obj
-<</A<</D(monitoring_and_observability)/S/GoTo>>/Border[ 0 0 0]/Contents(Monitoring and Observability                                                                                     ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 480.75 414.00003 491.25]/Subtype/Link/Type/Annot>>
-endobj
-140 0 obj
-<</A<</D(ml_specific_metrics)/S/GoTo>>/Border[ 0 0 0]/Contents(ML-Specific Metrics                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 468.15002 414 478.65002]/Subtype/Link/Type/Annot>>
-endobj
-141 0 obj
-<</A<</D(monitoring_toolbox)/S/GoTo>>/Border[ 0 0 0]/Contents(Monitoring Toolbox                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 455.54999 414.00003 466.04999]/Subtype/Link/Type/Annot>>
-endobj
-142 0 obj
-<</A<</D(observability)/S/GoTo>>/Border[ 0 0 0]/Contents(Observability                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 442.95001 414 453.45001]/Subtype/Link/Type/Annot>>
-endobj
-143 0 obj
-<</A<</D(summary-id000009)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 430.34998 414 440.84998]/Subtype/Link/Type/Annot>>
-endobj
-144 0 obj
-<</A<</D(continual_learning_and_test_in_producti)/S/GoTo>>/Border[ 0 0 0]/Contents(Continual Learning and Test in Production. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  263)/M(D:20220517135306+00'00')/Rect[ 86.400002 405.29999 432 417.29999]/Subtype/Link/Type/Annot>>
-endobj
-145 0 obj
-<</A<</D(continual_learning)/S/GoTo>>/Border[ 0 0 0]/Contents(Continual Learning                                                                                                        ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 392.54999 414 403.04999]/Subtype/Link/Type/Annot>>
-endobj
-146 0 obj
-<</A<</D(stateless_retraining_versus_stateful_t)/S/GoTo>>/Border[ 0 0 0]/Contents(Stateless Retraining Versus Stateful Training                                                         265)/M(D:20220517135306+00'00')/Rect[ 95.040001 379.94995 414 390.44995]/Subtype/Link/Type/Annot>>
-endobj
-147 0 obj
-<</A<</D(why_continual_learningquestion_mark)/S/GoTo>>/Border[ 0 0 0]/Contents(Why Continual Learning?                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 367.34998 414 377.84998]/Subtype/Link/Type/Annot>>
-endobj
-148 0 obj
-<</A<</D(continual_learning_challenges)/S/GoTo>>/Border[ 0 0 0]/Contents(Continual Learning Challenges                                                                                ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 354.74994 413.99997 365.24994]/Subtype/Link/Type/Annot>>
-endobj
-149 0 obj
-<</A<</D(four_stages_of_continual_learning)/S/GoTo>>/Border[ 0 0 0]/Contents(Four Stages of Continual Learning                                                                          274)/M(D:20220517135306+00'00')/Rect[ 95.040001 342.14996 413.99997 352.64996]/Subtype/Link/Type/Annot>>
-endobj
-150 0 obj
-<</A<</D(how_often_to_update_your_models)/S/GoTo>>/Border[ 0 0 0]/Contents(How Often to Update Your Models                                                                         279)/M(D:20220517135306+00'00')/Rect[ 95.040001 329.54996 414.00003 340.04996]/Subtype/Link/Type/Annot>>
-endobj
-151 0 obj
-<</A<</D(test_in_production)/S/GoTo>>/Border[ 0 0 0]/Contents(Test in Production                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 316.94995 414 327.44995]/Subtype/Link/Type/Annot>>
-endobj
-152 0 obj
-<</A<</D(shadow_deployment)/S/GoTo>>/Border[ 0 0 0]/Contents(Shadow Deployment                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 304.34995 414 314.84995]/Subtype/Link/Type/Annot>>
-endobj
-153 0 obj
-<</A<</D(asolidusb_testing)/S/GoTo>>/Border[ 0 0 0]/Contents(A/B Testing                                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 291.74994 414 302.24994]/Subtype/Link/Type/Annot>>
-endobj
-154 0 obj
-<</A<</D(canary_release)/S/GoTo>>/Border[ 0 0 0]/Contents(Canary Release                                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 279.14993 414 289.64993]/Subtype/Link/Type/Annot>>
-endobj
-155 0 obj
-<</A<</D(interleaving_experiments)/S/GoTo>>/Border[ 0 0 0]/Contents(Interleaving Experiments                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 266.54993 413.99997 277.04993]/Subtype/Link/Type/Annot>>
-endobj
-156 0 obj
-<</A<</D(bandits)/S/GoTo>>/Border[ 0 0 0]/Contents(Bandits                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 253.94992 414 264.44992]/Subtype/Link/Type/Annot>>
-endobj
-157 0 obj
-<</A<</D(summary-id000010)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 241.34991 414 251.84991]/Subtype/Link/Type/Annot>>
-endobj
-158 0 obj
-<</A<</D(infrastructure_and_tooling_for_mlops)/S/GoTo>>/Border[ 0 0 0]/Contents(Infrastructure and Tooling for MLOps. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 216.2999 431.99997 228.2999]/Subtype/Link/Type/Annot>>
-endobj
-159 0 obj
-<</A<</D(storage_and_compute)/S/GoTo>>/Border[ 0 0 0]/Contents(Storage and Compute                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 203.54993 414 214.04993]/Subtype/Link/Type/Annot>>
-endobj
-160 0 obj
-<</A<</D(public_cloud_versus_private_data_center)/S/GoTo>>/Border[ 0 0 0]/Contents(Public Cloud Versus Private Data Centers                                                             300)/M(D:20220517135306+00'00')/Rect[ 95.040001 190.94992 414.00003 201.44992]/Subtype/Link/Type/Annot>>
-endobj
-161 0 obj
-<</A<</D(development_environment)/S/GoTo>>/Border[ 0 0 0]/Contents(Development Environment                                                                                          ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 178.34991 414 188.84991]/Subtype/Link/Type/Annot>>
-endobj
-162 0 obj
-<</A<</D(dev_environment_setup)/S/GoTo>>/Border[ 0 0 0]/Contents(Dev Environment Setup                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 165.749908 414 176.24991]/Subtype/Link/Type/Annot>>
-endobj
-163 0 obj
-<</A<</D(standardizing_dev_environments)/S/GoTo>>/Border[ 0 0 0]/Contents(Standardizing Dev Environments                                                                            306)/M(D:20220517135306+00'00')/Rect[ 95.040001 153.149902 414.00003 163.649902]/Subtype/Link/Type/Annot>>
-endobj
-164 0 obj
-<</A<</D(from_dev_to_prod_containers)/S/GoTo>>/Border[ 0 0 0]/Contents(From Dev to Prod: Containers                                                                                 ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 140.549896 414 151.049896]/Subtype/Link/Type/Annot>>
-endobj
-165 0 obj
-<</A<</D(resource_management)/S/GoTo>>/Border[ 0 0 0]/Contents(Resource Management                                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 127.94989 414 138.44989]/Subtype/Link/Type/Annot>>
-endobj
-166 0 obj
-<</A<</D(croncomma_schedulerscomma_and_orchestra)/S/GoTo>>/Border[ 0 0 0]/Contents(Cron, Schedulers, and Orchestrators                                                                      311)/M(D:20220517135306+00'00')/Rect[ 95.040001 115.349876 414 125.849876]/Subtype/Link/Type/Annot>>
-endobj
-167 0 obj
-<</A<</D(data_science_workflow_management)/S/GoTo>>/Border[ 0 0 0]/Contents(Data Science Workflow Management                                                                     314)/M(D:20220517135306+00'00')/Rect[ 95.040001 102.749878 413.99997 113.249878]/Subtype/Link/Type/Annot>>
-endobj
-168 0 obj
-<</A<</D(ml_platform)/S/GoTo>>/Border[ 0 0 0]/Contents(ML Platform                                                                                                                   ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 90.149902 414 100.649872]/Subtype/Link/Type/Annot>>
-endobj
-169 0 obj
-<</A<</D(model_deployment)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Deployment                                                                                                    ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 77.549873 414.00003 88.049873]/Subtype/Link/Type/Annot>>
-endobj
-170 0 obj
-<</Filter/FlateDecode/Length 1318>>stream
-xÚÕ™[sÚF†ïùß¥èÄÊjuX©7Çi2öø ­§Óé…@‹­FHDgúãû®$„=(StÁA=şï÷îš¾AÇ‰zrC·i2£/8,““Ã„n
-›fõ;W÷aRDbû]ùÍ^ıÆÖ]“œª®[½½û‰bÜñnö˜Îmz|v£æ·ğõ!İôh‰h¨s¶Uñ-?b`0<¯ÇÔÇŒî{§#z{3œFÓõ¿ÍÀİh4Ó\½O£¿éı¨wST?ò¹å*ÃÒ­å…ô§væç>…Y†ã"“˜†á4ÏÈºLâ0OÒ0¾×épG¿wÂ®çvŸş¢Ñ'`r…d+P¦3f2¨\w]ŸÀø}2<­ÈdFÉ”./hø”årFç}âLóÃ¨Hqê(ÅË5ÎšÖÕË°K@§¢&ÓüÑOe‡P+2d¢&cëP—'Ã¹œ„ÓpÒPÃep`^v²3Æ˜Q!UYm©À òjŠÖ¼ú$Líi^]w´
-Í\#ÛÈëËÔ:Æñ˜Æ-cÏ™Ìå$‡FtE¤p,8|Î;”º£
-=ë
-ªf¹»ê½nÇ’k%¨¥¾^3™öé½²ğÇaæOG+u¥n³íR·=<¶£Â•Ø¤ÁP„–ÀgÖHÅóğ¡5=WK’hœ|í†Ï@ØN_W©ÜBˆ/hî°˜Íüš´kÄXÇÑ¸³Ì7¬Ë–ÿ!Ãõ^p@ğ
-Œ¹+ä5>hû©.ñ<WQQ6hÄ°²z!ı4^6èHf9…1]§IPL”pĞÂ…	rÌÄ=ge‚êÜ²³°zŞàí.s˜ìµch®Y^«®Œ ÃtñÃ’òwô­Ğdš5ßš:ºçšÚò{ÿu¯
-«¶–½ªDøsÀ»è	F;íé/ÇîUg5/Z0÷&|ğàG‘Œïïè€gB{ï¼„JŠT¥ò¾rIİÔh©Ç¨Caµ	ò¯H°­%t5ÍeLyB¿õÉô´y°,:ú/àìÿe¿§ÆK £ì°ŒpbS‘-ñµše[RÓ¥ à®±¿©ü ñ<“ó(yšÉ:Íà!“Üåm©~÷ö”V1ìP
-7F Ñ|©Ÿı¸™½·G?“]{`Úm‘üX'U¦@ÃKW[¨x¾ÿ:—i¸JyvÜRdbqw O1Ã<£õX:jWüÜ–·Óm˜ºçZd
-W…~é–K”–«¶O^¿Òw	2]W]XÛ®ñ4õ±*ƒà©¬,<½ª¹iU¾¸šg‡Üzj6 ,X/ïÖËr—&I1âJÄA2+a^ä²£ôÙh[Oì•çëbaá6ˆ’"Ø°Y×i¸XÍ¼f9<@;÷ªfÿ¾>Bu§™LÙ…^3ç¶·{äBFÉ¼ïãÒ…-Â4‰;(ˆ£àäqä;0[È†2/æG_fš@4ÛF+ü4¿•›m¨Ùá°Éœıš|&³’^K¹˜Ÿ/Sÿ½UÖ¦kÀ6·]¶ïVf0y©v5¡aßËnŒş0öÛ«ò÷††“¢õ¦Ú"Jñ²nÛäPQ,×ŸlŠµoÎ'¡Œ½»RT’ôó4‚<Z,Z/kÿl½¼ ë¨†Ä´˜ı   z»7ÖÜÍ+¬.ºwÏ¤ƒTsÖŒÿ›Íÿ@9†¡³’·şêHWÀÛ6 †KBwìjˆ/ÂrÕ;ôÏòÅÈG²^bõ•gõj¼¼3ö:'
-endstream
-endobj
-171 0 obj
-<</BleedBox[ 0 0 504 661.5]/Contents 210 0 R /CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</Font<</F0 32 0 R /F2 36 0 R >>/ProcSet[/PDF/Text/ImageC]/XObject<<>>>>/Type/Page>>
-endobj
-172 0 obj
-[ 173 0 R  174 0 R  175 0 R  176 0 R  177 0 R  178 0 R  179 0 R  180 0 R  181 0 R  182 0 R  183 0 R  184 0 R  185 0 R  186 0 R  187 0 R  188 0 R  189 0 R  190 0 R ]
-endobj
-173 0 obj
-<</A<</D(model_store)/S/GoTo>>/Border[ 0 0 0]/Contents(Model Store                                                                                                                 ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 595.95001 414.00003 606.45001]/Subtype/Link/Type/Annot>>
-endobj
-174 0 obj
-<</A<</D(feature_store)/S/GoTo>>/Border[ 0 0 0]/Contents(Feature Store                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 583.34998 414 593.84998]/Subtype/Link/Type/Annot>>
-endobj
-175 0 obj
-<</A<</D(build_versus_buy)/S/GoTo>>/Border[ 0 0 0]/Contents(Build Versus Buy                                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 570.75 414.00003 581.25]/Subtype/Link/Type/Annot>>
-endobj
-176 0 obj
-<</A<</D(summary-id000011)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 558.15002 414 568.65002]/Subtype/Link/Type/Annot>>
-endobj
-177 0 obj
-<</A<</D(the_human_side_of_machine_learning)/S/GoTo>>/Border[ 0 0 0]/Contents(The Human Side of Machine Learning. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 533.09998 432 545.09998]/Subtype/Link/Type/Annot>>
-endobj
-178 0 obj
-<</A<</D(user_experience)/S/GoTo>>/Border[ 0 0 0]/Contents(User Experience                                                                                                             ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 520.34998 414 530.84998]/Subtype/Link/Type/Annot>>
-endobj
-179 0 obj
-<</A<</D(ensuring_user_experience_consistency)/S/GoTo>>/Border[ 0 0 0]/Contents(Ensuring User Experience Consistency                                                                  332)/M(D:20220517135306+00'00')/Rect[ 95.040001 507.75 413.99997 518.25]/Subtype/Link/Type/Annot>>
-endobj
-180 0 obj
-<</A<</D(combatting_quotation_markmostly_correct)/S/GoTo>>/Border[ 0 0 0]/Contents(Combatting Mostly Correct Predictions                                                             332)/M(D:20220517135306+00'00')/Rect[ 95.040001 495.14999 413.99997 505.64999]/Subtype/Link/Type/Annot>>
-endobj
-181 0 obj
-<</A<</D(smooth_failing)/S/GoTo>>/Border[ 0 0 0]/Contents(Smooth Failing                                                                                                            ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 482.54999 414.00003 493.04999]/Subtype/Link/Type/Annot>>
-endobj
-182 0 obj
-<</A<</D(team_structure)/S/GoTo>>/Border[ 0 0 0]/Contents(Team Structure                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 469.95001 414.00003 480.45001]/Subtype/Link/Type/Annot>>
-endobj
-183 0 obj
-<</A<</D(cross_functional_teams_collaboration)/S/GoTo>>/Border[ 0 0 0]/Contents(Cross-functional Teams Collaboration                                                                   335)/M(D:20220517135306+00'00')/Rect[ 95.040001 457.34998 413.99997 467.84998]/Subtype/Link/Type/Annot>>
-endobj
-184 0 obj
-<</A<</D(end_to_end_data_scientists)/S/GoTo>>/Border[ 0 0 0]/Contents(End-to-End Data Scientists                                                                                       ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 444.75 414 455.25]/Subtype/Link/Type/Annot>>
-endobj
-185 0 obj
-<</A<</D(responsible_ai)/S/GoTo>>/Border[ 0 0 0]/Contents(Responsible AI                                                                                                               ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 432.14996 414 442.64996]/Subtype/Link/Type/Annot>>
-endobj
-186 0 obj
-<</A<</D(irresponsible_ai_case_studies)/S/GoTo>>/Border[ 0 0 0]/Contents(Irresponsible AI: Case Studies                                                                                  ...)/M(D:20220517135306+00'00')/Rect[ 95.040001 419.54999 414 430.04999]/Subtype/Link/Type/Annot>>
-endobj
-187 0 obj
-<</A<</D(a_framework_for_responsible_ai)/S/GoTo>>/Border[ 0 0 0]/Contents(A Framework for Responsible AI                                                                            347)/M(D:20220517135306+00'00')/Rect[ 95.040001 406.94995 414 417.44995]/Subtype/Link/Type/Annot>>
-endobj
-188 0 obj
-<</A<</D(summary-id000012)/S/GoTo>>/Border[ 0 0 0]/Contents(Summary                                                                                                                         ...)/M(D:20220517135306+00'00')/Rect[ 86.400002 394.34998 414 404.84998]/Subtype/Link/Type/Annot>>
-endobj
-189 0 obj
-<</A<</D(epilogue)/S/GoTo>>/Border[ 0 0 0]/Contents(Epilogue. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 72 369.29996 432 381.29996]/Subtype/Link/Type/Annot>>
-endobj
-190 0 obj
-<</A<</D(idm9294)/S/GoTo>>/Border[ 0 0 0]/Contents(Index. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ...)/M(D:20220517135306+00'00')/Rect[ 72 344.09995 432 356.09995]/Subtype/Link/Type/Annot>>
-endobj
-191 0 obj
-<</Filter/FlateDecode/Length 804>>stream
-xÚÍ—[oÓ0Çß+í;œÇ)&¾Å	o[é`ˆIŒx`<d»…å²9	[%><ÇMÚ¦cEHtñC.vâ_Îål¸
-6×|Ÿ	Ón±	ÎÀ÷áJBŞİ$¤ŠCê÷»ÅÈAw#IÀ™Â®ö½Õí—PàŒïp²7à&áîÁDëoáğ	œ`‰HmŸ–Ïë\"xyÌ€zÍÖ?Ã8ñ¸‚€øÇ¾:§C`¾S&¿[—FÃ¾áÀ¥^àpF‡ğ"4ñğàÈËˆQ‚ÇC ¡£ãÅ©nò9X-©ô‘Tv¤.RPá÷Qš4KàóBåhS55ó=S†!ÕÒœ-š”¶„“&Ïc3—…Îë@L_!fØa£Á:¤]NÂ@ &kû²iìcmc…Sèø<w(%Cˆ¾Ûmyƒ
-"ì+ŠÑf@t¥ám“ÇLÒDC9ƒÓxz•ŞëØiqI`·ÿáÏçË˜ïg«kJ‰`á· µóÛ§!HîTÚÀøşF›TS½o—1J5õ"üQ{zá?.ªÆ ÉàQÚQYTiUãõ|7é($â°ÍHoAFe~ÑéEmyÎ™‡ã˜\
-^Ugsä1FOk|¢ÀáƒÑI:­Säüw©úlQc}ÂI^–õ ¶1Ï‰ÓÌRî×›ÖxbSË‚>a„* ìæ(·¦™.„wÿ’Ky³9öPÓF¦¬*wÖßÅ¬Ğ+tr–Å¥é¢ûwUµ°p¹MfÇEâÖ¥‹'xİMÃdŠ‰ĞqTuõtVS=4w‹Ñ>êêÆ&äE¦áğdÿe@ÊğÏ=Áíc¾‚Q\Ùúß$©®†ı*èc‰»Æ:„cçú®4×0+<-m¤q,èBmºó¿.ë’¯
-Û²£X2àLàÙ—]Ü¤YyÙè]Ù¿mç”g¢\Ê‡AÀ$a½Ø,}ÿ\ÜØÎ¶,.¨´ôj½´:ÛÜ/ø¸PòÂ0ÖÛ³Zb…›[† w?‚²ñ»=CÛ0Ç…Ös,æ¨cv`ÎÏåÅ4ÅÉËÉ±ıskÜ
-endstream
-endobj
-192 0 obj
-<</BleedBox[ 0 0 504 661.5]/CropBox[ 0 0 504 661.5]/Group<</CS/DeviceRGB/S/Transparency/Type/Group>>/MediaBox[ 0 0 504 661.5]/Parent 2 0 R /Resources<</ProcSet[/ImageC]>>/Type/Page>>
-endobj
-193 0 obj
-<</Filter/FlateDecode/Length 8>>stream
-xœ    
-endstream
-endobj
-194 0 obj
-[ 195 0 R  31 0 R  196 0 R ]
-endobj
-195 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ+  r r
-endstream
-endobj
-196 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ  R R
-endstream
-endobj
-197 0 obj
-<</Filter/FlateDecode/Length 8>>stream
-xœ    
-endstream
-endobj
-198 0 obj
-[ 199 0 R  82 0 R  200 0 R ]
-endobj
-199 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ+  r r
-endstream
-endobj
-200 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ  R R
-endstream
-endobj
-201 0 obj
-<</Filter/FlateDecode/Length 8>>stream
-xœ    
-endstream
-endobj
-202 0 obj
-[ 203 0 R  125 0 R  204 0 R ]
-endobj
-203 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ+  r r
-endstream
-endobj
-204 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ  R R
-endstream
-endobj
-205 0 obj
-<</Filter/FlateDecode/Length 8>>stream
-xœ    
-endstream
-endobj
-206 0 obj
-[ 207 0 R  170 0 R  208 0 R ]
-endobj
-207 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ+  r r
-endstream
-endobj
-208 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ  R R
-endstream
-endobj
-209 0 obj
-<</Filter/FlateDecode/Length 8>>stream
-xœ    
-endstream
-endobj
-210 0 obj
-[ 211 0 R  191 0 R  212 0 R ]
-endobj
-211 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ+  r r
-endstream
-endobj
-212 0 obj
-<</Filter/FlateDecode/Length 9>>stream
-xœ  R R
-endstream
-endobj
-xref
-0 213
-0000000000 65535 f
-0000000017 00000 n
-0000000109 00000 n
-0000000208 00000 n
-0000000295 00000 n
-0000000566 00000 n
-0000000783 00000 n
-0000001089 00000 n
-0000001404 00000 n
-0000001707 00000 n
-0000002008 00000 n
-0000002310 00000 n
-0000002602 00000 n
-0000002893 00000 n
-0000003192 00000 n
-0000003500 00000 n
-0000003805 00000 n
-0000004108 00000 n
-0000004411 00000 n
-0000004714 00000 n
-0000005015 00000 n
-0000005316 00000 n
-0000005623 00000 n
-0000005923 00000 n
-0000006223 00000 n
-0000006525 00000 n
-0000006829 00000 n
-0000007135 00000 n
-0000007449 00000 n
-0000007754 00000 n
-0000008057 00000 n
-0000008352 00000 n
-0000009461 00000 n
-0000010075 00000 n
-0000010633 00000 n
-0000017233 00000 n
-0000017589 00000 n
-0000018684 00000 n
-0000019552 00000 n
-0000030874 00000 n
-0000031366 00000 n
-0000031638 00000 n
-0000031980 00000 n
-0000032275 00000 n
-0000032576 00000 n
-0000032872 00000 n
-0000033172 00000 n
-0000033467 00000 n
-0000033769 00000 n
-0000034075 00000 n
-0000034374 00000 n
-0000034682 00000 n
-0000034985 00000 n
-0000035285 00000 n
-0000035587 00000 n
-0000035880 00000 n
-0000036185 00000 n
-0000036493 00000 n
-0000036797 00000 n
-0000037093 00000 n
-0000037393 00000 n
-0000037690 00000 n
-0000037993 00000 n
-0000038291 00000 n
-0000038591 00000 n
-0000038889 00000 n
-0000039192 00000 n
-0000039491 00000 n
-0000039792 00000 n
-0000040095 00000 n
-0000040396 00000 n
-0000040697 00000 n
-0000040995 00000 n
-0000041294 00000 n
-0000041595 00000 n
-0000041891 00000 n
-0000042190 00000 n
-0000042496 00000 n
-0000042808 00000 n
-0000043118 00000 n
-0000043426 00000 n
-0000043731 00000 n
-0000044029 00000 n
-0000045408 00000 n
-0000045692 00000 n
-0000046059 00000 n
-0000046359 00000 n
-0000046660 00000 n
-0000046953 00000 n
-0000047254 00000 n
-0000047555 00000 n
-0000047850 00000 n
-0000048149 00000 n
-0000048445 00000 n
-0000048749 00000 n
-0000049049 00000 n
-0000049355 00000 n
-0000049667 00000 n
-0000049973 00000 n
-0000050276 00000 n
-0000050572 00000 n
-0000050872 00000 n
-0000051167 00000 n
-0000051467 00000 n
-0000051771 00000 n
-0000052076 00000 n
-0000052374 00000 n
-0000052681 00000 n
-0000052995 00000 n
-0000053295 00000 n
-0000053579 00000 n
-0000053853 00000 n
-0000054141 00000 n
-0000054425 00000 n
-0000054731 00000 n
-0000055032 00000 n
-0000055330 00000 n
-0000055629 00000 n
-0000055929 00000 n
-0000056232 00000 n
-0000056531 00000 n
-0000056831 00000 n
-0000057142 00000 n
-0000057436 00000 n
-0000057740 00000 n
-0000058047 00000 n
-0000059613 00000 n
-0000060105 00000 n
-0000060541 00000 n
-0000060814 00000 n
-0000061197 00000 n
-0000061515 00000 n
-0000061826 00000 n
-0000062128 00000 n
-0000062435 00000 n
-0000062736 00000 n
-0000063042 00000 n
-0000063346 00000 n
-0000063651 00000 n
-0000063961 00000 n
-0000064265 00000 n
-0000064565 00000 n
-0000064869 00000 n
-0000065169 00000 n
-0000065476 00000 n
-0000065792 00000 n
-0000066095 00000 n
-0000066398 00000 n
-0000066708 00000 n
-0000067015 00000 n
-0000067324 00000 n
-0000067628 00000 n
-0000067932 00000 n
-0000068227 00000 n
-0000068532 00000 n
-0000068831 00000 n
-0000069138 00000 n
-0000069436 00000 n
-0000069743 00000 n
-0000070064 00000 n
-0000070365 00000 n
-0000070674 00000 n
-0000070973 00000 n
-0000071271 00000 n
-0000071578 00000 n
-0000071879 00000 n
-0000072178 00000 n
-0000072487 00000 n
-0000072791 00000 n
-0000073092 00000 n
-0000073393 00000 n
-0000074786 00000 n
-0000075059 00000 n
-0000075244 00000 n
-0000075548 00000 n
-0000075848 00000 n
-0000076151 00000 n
-0000076458 00000 n
-0000076769 00000 n
-0000077071 00000 n
-0000077372 00000 n
-0000077680 00000 n
-0000077985 00000 n
-0000078293 00000 n
-0000078601 00000 n
-0000078897 00000 n
-0000079199 00000 n
-0000079503 00000 n
-0000079802 00000 n
-0000080109 00000 n
-0000080417 00000 n
-0000080727 00000 n
-0000081605 00000 n
-0000081808 00000 n
-0000081888 00000 n
-0000081937 00000 n
-0000082018 00000 n
-0000082099 00000 n
-0000082179 00000 n
-0000082228 00000 n
-0000082309 00000 n
-0000082390 00000 n
-0000082470 00000 n
-0000082520 00000 n
-0000082601 00000 n
-0000082682 00000 n
-0000082762 00000 n
-0000082812 00000 n
-0000082893 00000 n
-0000082974 00000 n
-0000083054 00000 n
-0000083104 00000 n
-0000083185 00000 n
-trailer
-<<
-/Root 1 0 R
-/Info 3 0 R
-/Size 213/ID[<8480BB31BB05DA8BC49FA1044D8450AA><8480BB31BB05DA8BC49FA1044D8450AA>]>>
-startxref
-83266
-%%EOF
